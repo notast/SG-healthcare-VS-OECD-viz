@@ -1,0 +1,226 @@
+---
+title: "Health exp and resources SG vs OECD vs non-OECD"
+output: html_document
+---
+
+# OECD countries
+## import 
+```{r}
+library(tidyverse)
+import_fun<-function(csv, var){
+  read_csv(csv) %>% select(Country= LOCATION, Year= TIME, {{var}} := Value) #select the relevant vars
+}
+  
+GDP<-import_fun("OECD_healthGDP.csv",pct_GDP ) 
+DR<- import_fun("OECD_Drs.csv", ratio_Dr)
+NURSE<- import_fun("OECD_nurses.csv", ratio_Nurse)
+BED<- import_fun("OECD_beds.csv", ratio_Bed)
+ELDER<- import_fun("OECD_ElderPop.csv", pct_Elder)
+```
+## countries
+the number of countries varies. identifiy all countries
+```{r}
+distinct_country<- function(df){
+  df %>% distinct(Country) %>% pull()
+}
+GDP_country<- distinct_country(GDP) # 52 countries
+DR_country<- distinct_country(DR) # 40 countries 
+NURSE_country<-distinct_country(NURSE) # 42 countries
+BED_country<-distinct_country(BED) ## 44 countries
+ELDER_country<-distinct_country(ELDER) #56 countries
+
+cmon_country<- list(BED_country, DR_country, GDP_country, NURSE_country, ELDER_country) %>% reduce(intersect) # 40 common countries
+```
+## join all dataframes
+```{r}
+# there are total of a 8 years and 40 countries
+df_shell<-data.frame(Country=rep(cmon_country, each=10),
+               Year=rep(2008:2017, length(cmon_country)))
+
+#https://gist.github.com/austensen/cc59813d77f37e7746ed654790af8539
+df<-list(df_shell, BED, DR, GDP, NURSE, ELDER) %>% reduce(left_join, by=c("Country","Year"))
+```
+
+## full names of `Country`
+```{r}
+library(countrycode)
+
+df<-df %>% mutate(Country=countrycode(Country, origin = "iso3c", destination = "country.name"))
+```
+## OECD members
+```{r}
+library(rvest)
+oecd<-read_html("http://www.oecd.org/about/members-and-partners")
+
+# scrap table of members of oecd
+oecd_df<-oecd %>% html_nodes("#members .country-list__content") %>% html_text() %>% as_tibble() 
+
+oecd_df %>% tail()
+
+oecd_df<-oecd_df %>% mutate(value= str_squish(value), # remove white space
+                   value= word(value,1,2), # country is the 1st two word (e.g. united states)
+                   value= str_replace(value, "Year", ""), 
+                   value= str_squish(value)) %>% 
+  filter(value!="Country")%>% rename(Country=value)
+
+oecd_df
+# which countries are non OECD
+##  accept Czechia for Czech Republic, South Korea for Korea, Slovakia for Slovak Republic
+noOECD_country<-df %>% distinct(Country) %>% anti_join(oecd_df) %>% 
+  dplyr::filter(Country!=c("Czechia", "South Korea", "Slovakia")) %>% pull(Country)
+
+df<-df %>% mutate(OECD=ifelse(Country %in% noOECD_country, "Non-OECD", "OECD"))
+```
+
+# Singapore
+## Drs and Nurses 
+```{r}
+STAFF_sg<-read_csv("SG_DrsNurses.csv") 
+
+DR_sg<-STAFF_sg %>% filter(profession %in% c("Doctors") & between(year, 2008,2017)) %>% select(Year=year, ratio_Dr=no_per_1000,  DR_ratio_pop=ratio_to_population)
+
+NURSE_sg<- STAFF_sg %>% filter(profession %in% c("Nurses") & between(year, 2008,2017)) %>% select(Year=year, ratio_Nurse=no_per_1000,  Nurse_ratio_pop=ratio_to_population)
+```
+## GDP 
+```{r}
+GDP_sg<- read_csv("SG_healthGDP.csv") %>% filter(between(financial_year, 2008,2017)) %>% select(Year= financial_year, pct_GDP= percentage_gdp, everything()) 
+
+```
+
+## Beds 
+```{r}
+BED_sg<- read_csv("SG_bed(abs num).csv" ,skip = 4) %>% select(-X12) %>% 
+  drop_na() %>% # there are footnotes
+  mutate(Variables= str_replace(Variables, "\\*", ""), Variables=str_squish(Variables))
+
+BED_sg %>% distinct(Variables)
+
+# subtotal and total belong in same col, separate them 
+## inspired by https://www.youtube.com/watch?v=TSG74voJQ3E 49min
+BED_sg<-BED_sg %>% mutate(group= rep(1:5, each=4)) %>% select(group, everything()) %>% 
+  group_by(group) %>% 
+  mutate(Hospital_type= first(Variables)) %>% ungroup() %>% select(Hospital_type, everything()) %>%
+  mutate(Owner= ifelse(Variables %in%c("Public", "Not-for-profit", "Private"), Variables, "Total")) %>% select(Hospital_type, Owner, everything()) %>% select(- c(group, Variables))
+
+# wide-> long df 
+BED_sg<-BED_sg %>% pivot_longer(-c("Hospital_type", "Owner"), names_to="Year", values_to="Beds") %>%   group_by(Year, Owner) %>% mutate(Beds_Year_Owner= sum(Beds)) %>% ungroup()
+
+# beds -> bed/1000 
+## import population 
+pop_sg<-read_csv("SG_population.csv", skip = 4) %>% select(-X12) %>% drop_na() %>% #footnotes 
+  pivot_longer(-Variables, names_to="Year", values_to="Pop") %>% select(-Variables)
+
+BED_sg<-BED_sg %>% left_join(pop_sg, by="Year") %>% mutate(ratio_Bed= (Beds_Year_Owner/Pop)*1000)
+BED_sg$Year<-as.numeric(BED_sg$Year)
+```
+## Elder pop
+```{r}
+ELDER_sg<-read_csv("SG_ElderPop.csv") %>% filter(between(year, 2008,2017)) %>% group_by(year) %>% summarise(pct_Elder=sum(value)) %>% ungroup() %>% rename(Year=year)
+```
+
+## join all sg dataframes
+```{r}
+df_sgDetailed<-list(BED_sg, DR_sg, GDP_sg, NURSE_sg, ELDER_sg) %>% reduce(left_join, by=c("Year")) %>% mutate(Country="Singapore", OECD="Singapore",
+  across(c(ratio_Dr, ratio_Nurse), as.double))
+
+# SG df for binding to df 
+df_sg<-df_sgDetailed %>% 
+  filter(Owner=="Total" & Hospital_type=="Acute Hospitals") %>%  # Total as owner and Acute Hospital as need only one type of hospital as all ratio_Bed are the same for year and owner and hospital type 
+  select(colnames(df))
+```
+
+
+# bind OECD df and SG df
+## compare resources against SG 
+```{r}
+df<-left_join(df, df_sg, by= "Year") %>% 
+  mutate(CountryVsSG_beds= ifelse(ratio_Bed.y< ratio_Bed.x, "more beds", "less beds"), 
+         CountryVsSG_drs=ifelse(ratio_Dr.y<ratio_Dr.x, "more drs", "less drs"), 
+         CountryVsSG_nurses=ifelse(ratio_Nurse.y<ratio_Nurse.x, "more nurses", "less nurses")) %>% 
+  select(-ends_with(".y")) %>% 
+  rename_with(~str_remove(.x, "\\.x"), ends_with(".x"))
+```
+
+## binding OECD and sg dataframe
+```{r}
+# add above variable names  which added to df 
+df_sg<-df_sg %>% mutate(CountryVsSG_beds="Singapore", CountryVsSG_drs="Singapore", CountryVsSG_nurses="Singapore")
+
+df_all<-bind_rows(df, df_sg)
+```
+
+## income bracket
+```{r}
+INCOME<-readxl::read_excel("world bank income bracket.xls", skip=4) %>% select(Country=Economy, Income_group=`Income group`)%>% 
+  mutate(Country=ifelse(Country=="Czech Republic", "Czechia", Country), 
+         Country=ifelse(Country=="Korea, Rep.", "South Korea", Country), 
+         Country= ifelse(Country=="Slovak Republic", "Slovakia", Country), 
+         Country= ifelse(Country=="Russian Federation", "Russia", Country),
+         Income_group= ifelse(Country=="Singapore", "Singapore", Income_group)) 
+
+df_all<-left_join(df_all, INCOME, by="Country") 
+```
+## avg GDP
+```{r}
+df_all<-df_all %>% group_by(Country) %>% mutate(avg_GDP= mean(pct_GDP, na.rm = T)) %>% ungroup() 
+
+# rank avg GDP by income bracket 
+GDP_rankByincome<- function(...){
+  df_all %>% filter(Income_group %in% c(...) ) %>% mutate(avg_GDP_rankByincome= dense_rank(avg_GDP)) %>% relocate(avg_GDP, avg_GDP_rankByincome, .after= pct_GDP)}
+  
+df_all<-bind_rows(
+  GDP_rankByincome("High income", "Singapore"), 
+  GDP_rankByincome("Upper middle income"), 
+  GDP_rankByincome("Lower middle income"))
+```
+
+
+## all ratios as one column 
+```{r}
+df_all<-df_all %>% pivot_longer(starts_with("ratio"), names_to="Resource", values_to="per_1000") %>% mutate(Resource= str_remove(Resource, "ratio_")) %>% select(Country, Year, Resource, per_1000, everything())
+```
+
+# secondary dataset
+```{r}
+# function to create df of top 5 country for each resource + avg per_1000
+top5<- function(R){
+  df_all %>% select(Country, Year, Resource, per_1000) %>% 
+  filter(Year==2017 , Resource==R) %>%
+  slice_max(per_1000,n=5) %>% mutate(avgTop5_per1000= mean(per_1000))}
+
+df_top5resource2017<-bind_rows(top5("Bed"), top5("Dr"), top5("Nurse"), 
+# bind singapore too           
+        df_all %>% select(Country, Year, Resource, per_1000) %>% mutate(avgTop5_per1000=NA) %>% filter(Year==2017, Country=="Singapore"))%>%
+# arrange Singapore at the bottom for each Resource 
+  group_by(Resource) %>%  arrange(avgTop5_per1000, .by_group=T) %>% ungroup() %>% 
+  # imputae 
+  fill(avgTop5_per1000) %>% 
+  relocate(Year, Resource, everything())
+```
+
+# export 
+```{r}
+write_csv(df_all, path = "df_all.csv")
+write_csv(df_top5resource2017, path="df_top5resource2017.csv")
+knitr::knit_exit()
+```
+
+# Extra Data Variables
+1. outcome measure, life expectancy at 65 years old `years_aft65`. 
+In contrast to life expectancy at birth, this is one of the few healthcare outcome measures biased towards measuring the success of a caring for a geriatric population which is the theme of the presentation. 
+Source file for OECD, non-OECD: OECD_LifeExp65.csv
+Source file for SG: SG_LifeExp65.csv
+
+2. export `df_sgDetailed`
+
+3i. average year to year difference of GDP 
+E.g. Spending in 2007 is 4% of GDP, spending in 2008 is 6% of GDP, spending in 2009 is 7%. Year to year difference for 2007-2008, will be 2% and year to year difference for 2008-2009 will be 1%. The average year to year difference will be 1.5%.
+3ii. average year to year difference in life expectancy 
+3iii. average year to year difference in elder population
+3iv. absolute change in healthcare spending (as measured as percentage of GDP) in 2017 compared to 2008.
+3v. rankings for the above
+
+wrangling steps 
+create a `lead` -> take the difference -> take the mean of the difference 
+
+

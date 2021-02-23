@@ -1,0 +1,1231 @@
+Country,Year,Resource,per_1000,pct_GDP,avg_GDP,avg_GDP_rankByincome,pct_Elder,OECD,CountryVsSG_beds,CountryVsSG_drs,CountryVsSG_nurses,Income_group
+Australia,2008,Bed,3.82,8.256,8.7994,15,13.201,OECD,less beds,more drs,more nurses,High income
+Australia,2008,Dr,3.02,8.256,8.7994,15,13.201,OECD,less beds,more drs,more nurses,High income
+Australia,2008,Nurse,10.3,8.256,8.7994,15,13.201,OECD,less beds,more drs,more nurses,High income
+Australia,2009,Bed,3.77,8.563,8.7994,15,13.326,OECD,less beds,more drs,more nurses,High income
+Australia,2009,Dr,3.12,8.563,8.7994,15,13.326,OECD,less beds,more drs,more nurses,High income
+Australia,2009,Nurse,10.18,8.563,8.7994,15,13.326,OECD,less beds,more drs,more nurses,High income
+Australia,2010,Bed,3.78,8.431,8.7994,15,13.556,OECD,less beds,NA,NA,High income
+Australia,2010,Dr,NA,8.431,8.7994,15,13.556,OECD,less beds,NA,NA,High income
+Australia,2010,Nurse,NA,8.431,8.7994,15,13.556,OECD,less beds,NA,NA,High income
+Australia,2011,Bed,3.79,8.542,8.7994,15,13.822,OECD,less beds,more drs,more nurses,High income
+Australia,2011,Dr,3.32,8.542,8.7994,15,13.822,OECD,less beds,more drs,more nurses,High income
+Australia,2011,Nurse,10.19,8.542,8.7994,15,13.822,OECD,less beds,more drs,more nurses,High income
+Australia,2012,Bed,3.75,8.676,8.7994,15,14.137,OECD,less beds,more drs,more nurses,High income
+Australia,2012,Dr,3.31,8.676,8.7994,15,14.137,OECD,less beds,more drs,more nurses,High income
+Australia,2012,Nurse,10.22,8.676,8.7994,15,14.137,OECD,less beds,more drs,more nurses,High income
+Australia,2013,Bed,3.74,8.761,8.7994,15,14.4,OECD,less beds,more drs,more nurses,High income
+Australia,2013,Dr,3.37,8.761,8.7994,15,14.4,OECD,less beds,more drs,more nurses,High income
+Australia,2013,Nurse,11.12,8.761,8.7994,15,14.4,OECD,less beds,more drs,more nurses,High income
+Australia,2014,Bed,3.79,9.036,8.7994,15,14.663,OECD,less beds,more drs,more nurses,High income
+Australia,2014,Dr,3.45,9.036,8.7994,15,14.663,OECD,less beds,more drs,more nurses,High income
+Australia,2014,Nurse,11.28,9.036,8.7994,15,14.663,OECD,less beds,more drs,more nurses,High income
+Australia,2015,Bed,3.82,9.323,8.7994,15,14.924,OECD,less beds,more drs,more nurses,High income
+Australia,2015,Dr,3.51,9.323,8.7994,15,14.924,OECD,less beds,more drs,more nurses,High income
+Australia,2015,Nurse,11.39,9.323,8.7994,15,14.924,OECD,less beds,more drs,more nurses,High income
+Australia,2016,Bed,3.84,9.201,8.7994,15,15.18,OECD,less beds,more drs,more nurses,High income
+Australia,2016,Dr,3.58,9.201,8.7994,15,15.18,OECD,less beds,more drs,more nurses,High income
+Australia,2016,Nurse,11.57,9.201,8.7994,15,15.18,OECD,less beds,more drs,more nurses,High income
+Australia,2017,Bed,NA,9.205,8.7994,15,15.409,OECD,NA,more drs,more nurses,High income
+Australia,2017,Dr,3.68,9.205,8.7994,15,15.409,OECD,NA,more drs,more nurses,High income
+Australia,2017,Nurse,11.68,9.205,8.7994,15,15.409,OECD,NA,more drs,more nurses,High income
+Austria,2008,Bed,7.69,9.726,10.2137,26,17.262,OECD,more beds,more drs,more nurses,High income
+Austria,2008,Dr,4.6,9.726,10.2137,26,17.262,OECD,more beds,more drs,more nurses,High income
+Austria,2008,Nurse,6.36,9.726,10.2137,26,17.262,OECD,more beds,more drs,more nurses,High income
+Austria,2009,Bed,7.68,10.226,10.2137,26,17.526,OECD,more beds,more drs,more nurses,High income
+Austria,2009,Dr,4.69,10.226,10.2137,26,17.526,OECD,more beds,more drs,more nurses,High income
+Austria,2009,Nurse,6.47,10.226,10.2137,26,17.526,OECD,more beds,more drs,more nurses,High income
+Austria,2010,Bed,7.65,10.221,10.2137,26,17.672,OECD,more beds,more drs,more nurses,High income
+Austria,2010,Dr,4.8,10.221,10.2137,26,17.672,OECD,more beds,more drs,more nurses,High income
+Austria,2010,Nurse,6.53,10.221,10.2137,26,17.672,OECD,more beds,more drs,more nurses,High income
+Austria,2011,Bed,7.68,10.026,10.2137,26,17.69,OECD,more beds,more drs,more nurses,High income
+Austria,2011,Dr,4.84,10.026,10.2137,26,17.69,OECD,more beds,more drs,more nurses,High income
+Austria,2011,Nurse,6.62,10.026,10.2137,26,17.69,OECD,more beds,more drs,more nurses,High income
+Austria,2012,Bed,7.67,10.199,10.2137,26,17.947,OECD,more beds,more drs,more nurses,High income
+Austria,2012,Dr,4.9,10.199,10.2137,26,17.947,OECD,more beds,more drs,more nurses,High income
+Austria,2012,Nurse,6.65,10.199,10.2137,26,17.947,OECD,more beds,more drs,more nurses,High income
+Austria,2013,Bed,7.64,10.286,10.2137,26,18.19,OECD,more beds,more drs,less nurses,High income
+Austria,2013,Dr,4.99,10.286,10.2137,26,18.19,OECD,more beds,more drs,less nurses,High income
+Austria,2013,Nurse,6.69,10.286,10.2137,26,18.19,OECD,more beds,more drs,less nurses,High income
+Austria,2014,Bed,7.58,10.368,10.2137,26,18.399,OECD,more beds,more drs,less nurses,High income
+Austria,2014,Dr,5.05,10.368,10.2137,26,18.399,OECD,more beds,more drs,less nurses,High income
+Austria,2014,Nurse,6.79,10.368,10.2137,26,18.399,OECD,more beds,more drs,less nurses,High income
+Austria,2015,Bed,7.54,10.368,10.2137,26,18.477,OECD,more beds,more drs,less nurses,High income
+Austria,2015,Dr,5.09,10.368,10.2137,26,18.477,OECD,more beds,more drs,less nurses,High income
+Austria,2015,Nurse,6.8,10.368,10.2137,26,18.477,OECD,more beds,more drs,less nurses,High income
+Austria,2016,Bed,7.42,10.361,10.2137,26,18.495,OECD,more beds,more drs,less nurses,High income
+Austria,2016,Dr,5.13,10.361,10.2137,26,18.495,OECD,more beds,more drs,less nurses,High income
+Austria,2016,Nurse,6.77,10.361,10.2137,26,18.495,OECD,more beds,more drs,less nurses,High income
+Austria,2017,Bed,7.37,10.356,10.2137,26,18.599,OECD,more beds,more drs,less nurses,High income
+Austria,2017,Dr,5.18,10.356,10.2137,26,18.599,OECD,more beds,more drs,less nurses,High income
+Austria,2017,Nurse,6.85,10.356,10.2137,26,18.599,OECD,more beds,more drs,less nurses,High income
+Belgium,2008,Bed,6.25,9.632,10.3238,27,17.071,OECD,more beds,more drs,more nurses,High income
+Belgium,2008,Dr,2.92,9.632,10.3238,27,17.071,OECD,more beds,more drs,more nurses,High income
+Belgium,2008,Nurse,9.32,9.632,10.3238,27,17.071,OECD,more beds,more drs,more nurses,High income
+Belgium,2009,Bed,6.15,10.356,10.3238,27,17.121,OECD,more beds,more drs,more nurses,High income
+Belgium,2009,Dr,2.92,10.356,10.3238,27,17.121,OECD,more beds,more drs,more nurses,High income
+Belgium,2009,Nurse,9.42,10.356,10.3238,27,17.121,OECD,more beds,more drs,more nurses,High income
+Belgium,2010,Bed,6.12,10.234,10.3238,27,17.177,OECD,more beds,more drs,more nurses,High income
+Belgium,2010,Dr,2.92,10.234,10.3238,27,17.177,OECD,more beds,more drs,more nurses,High income
+Belgium,2010,Nurse,9.59,10.234,10.3238,27,17.177,OECD,more beds,more drs,more nurses,High income
+Belgium,2011,Bed,6.05,10.392,10.3238,27,17.316,OECD,more beds,more drs,more nurses,High income
+Belgium,2011,Dr,2.92,10.392,10.3238,27,17.316,OECD,more beds,more drs,more nurses,High income
+Belgium,2011,Nurse,9.81,10.392,10.3238,27,17.316,OECD,more beds,more drs,more nurses,High income
+Belgium,2012,Bed,5.99,10.507,10.3238,27,17.545,OECD,more beds,more drs,more nurses,High income
+Belgium,2012,Dr,2.93,10.507,10.3238,27,17.545,OECD,more beds,more drs,more nurses,High income
+Belgium,2012,Nurse,10.02,10.507,10.3238,27,17.545,OECD,more beds,more drs,more nurses,High income
+Belgium,2013,Bed,5.93,10.562,10.3238,27,17.766,OECD,more beds,more drs,more nurses,High income
+Belgium,2013,Dr,2.96,10.562,10.3238,27,17.766,OECD,more beds,more drs,more nurses,High income
+Belgium,2013,Nurse,10.3,10.562,10.3238,27,17.766,OECD,more beds,more drs,more nurses,High income
+Belgium,2014,Bed,5.85,10.44,10.3238,27,17.999,OECD,more beds,more drs,more nurses,High income
+Belgium,2014,Dr,2.98,10.44,10.3238,27,17.999,OECD,more beds,more drs,more nurses,High income
+Belgium,2014,Nurse,10.58,10.44,10.3238,27,17.999,OECD,more beds,more drs,more nurses,High income
+Belgium,2015,Bed,5.83,10.427,10.3238,27,18.21,OECD,more beds,more drs,more nurses,High income
+Belgium,2015,Dr,3.02,10.427,10.3238,27,18.21,OECD,more beds,more drs,more nurses,High income
+Belgium,2015,Nurse,10.83,10.427,10.3238,27,18.21,OECD,more beds,more drs,more nurses,High income
+Belgium,2016,Bed,5.76,10.282,10.3238,27,18.405,OECD,more beds,more drs,more nurses,High income
+Belgium,2016,Dr,3.07,10.282,10.3238,27,18.405,OECD,more beds,more drs,more nurses,High income
+Belgium,2016,Nurse,10.96,10.282,10.3238,27,18.405,OECD,more beds,more drs,more nurses,High income
+Belgium,2017,Bed,5.66,10.406,10.3238,27,18.617,OECD,more beds,more drs,more nurses,High income
+Belgium,2017,Dr,3.08,10.406,10.3238,27,18.617,OECD,more beds,more drs,more nurses,High income
+Belgium,2017,Nurse,11.22,10.406,10.3238,27,18.617,OECD,more beds,more drs,more nurses,High income
+Canada,2008,Bed,2.85,9.575,10.4702,28,13.659,OECD,less beds,more drs,more nurses,High income
+Canada,2008,Dr,2.26,9.575,10.4702,28,13.659,OECD,less beds,more drs,more nurses,High income
+Canada,2008,Nurse,9.16,9.575,10.4702,28,13.659,OECD,less beds,more drs,more nurses,High income
+Canada,2009,Bed,2.8,10.682,10.4702,28,13.885,OECD,less beds,more drs,more nurses,High income
+Canada,2009,Dr,2.34,10.682,10.4702,28,13.885,OECD,less beds,more drs,more nurses,High income
+Canada,2009,Nurse,9.32,10.682,10.4702,28,13.885,OECD,less beds,more drs,more nurses,High income
+Canada,2010,Bed,2.78,10.659,10.4702,28,14.127,OECD,less beds,more drs,more nurses,High income
+Canada,2010,Dr,2.38,10.659,10.4702,28,14.127,OECD,less beds,more drs,more nurses,High income
+Canada,2010,Nurse,9.37,10.659,10.4702,28,14.127,OECD,less beds,more drs,more nurses,High income
+Canada,2011,Bed,2.8,10.315,10.4702,28,14.43,OECD,less beds,more drs,more nurses,High income
+Canada,2011,Dr,2.46,10.315,10.4702,28,14.43,OECD,less beds,more drs,more nurses,High income
+Canada,2011,Nurse,9.29,10.315,10.4702,28,14.43,OECD,less beds,more drs,more nurses,High income
+Canada,2012,Bed,2.79,10.429,10.4702,28,14.85,OECD,less beds,more drs,more nurses,High income
+Canada,2012,Dr,2.51,10.429,10.4702,28,14.85,OECD,less beds,more drs,more nurses,High income
+Canada,2012,Nurse,9.4,10.429,10.4702,28,14.85,OECD,less beds,more drs,more nurses,High income
+Canada,2013,Bed,2.72,10.34,10.4702,28,15.258,OECD,less beds,more drs,more nurses,High income
+Canada,2013,Dr,2.57,10.34,10.4702,28,15.258,OECD,less beds,more drs,more nurses,High income
+Canada,2013,Nurse,9.54,10.34,10.4702,28,15.258,OECD,less beds,more drs,more nurses,High income
+Canada,2014,Bed,2.67,10.25,10.4702,28,15.64,OECD,less beds,more drs,more nurses,High income
+Canada,2014,Dr,2.62,10.25,10.4702,28,15.64,OECD,less beds,more drs,more nurses,High income
+Canada,2014,Nurse,9.81,10.25,10.4702,28,15.64,OECD,less beds,more drs,more nurses,High income
+Canada,2015,Bed,2.62,10.683,10.4702,28,16.027,OECD,less beds,more drs,more nurses,High income
+Canada,2015,Dr,2.67,10.683,10.4702,28,16.027,OECD,less beds,more drs,more nurses,High income
+Canada,2015,Nurse,9.91,10.683,10.4702,28,16.027,OECD,less beds,more drs,more nurses,High income
+Canada,2016,Bed,2.6,10.979,10.4702,28,16.397,OECD,less beds,more drs,more nurses,High income
+Canada,2016,Dr,2.69,10.979,10.4702,28,16.397,OECD,less beds,more drs,more nurses,High income
+Canada,2016,Nurse,9.96,10.979,10.4702,28,16.397,OECD,less beds,more drs,more nurses,High income
+Canada,2017,Bed,2.53,10.79,10.4702,28,16.792,OECD,less beds,more drs,more nurses,High income
+Canada,2017,Dr,2.73,10.79,10.4702,28,16.792,OECD,less beds,more drs,more nurses,High income
+Canada,2017,Nurse,10,10.79,10.4702,28,16.792,OECD,less beds,more drs,more nurses,High income
+Czechia,2008,Bed,7.21,6.36,7.167,9,14.723,OECD,more beds,more drs,more nurses,High income
+Czechia,2008,Dr,3.56,6.36,7.167,9,14.723,OECD,more beds,more drs,more nurses,High income
+Czechia,2008,Nurse,7.97,6.36,7.167,9,14.723,OECD,more beds,more drs,more nurses,High income
+Czechia,2009,Bed,7.14,7.293,7.167,9,15.044,OECD,more beds,more drs,more nurses,High income
+Czechia,2009,Dr,3.58,7.293,7.167,9,15.044,OECD,more beds,more drs,more nurses,High income
+Czechia,2009,Nurse,8.09,7.293,7.167,9,15.044,OECD,more beds,more drs,more nurses,High income
+Czechia,2010,Bed,7.3,6.928,7.167,9,15.373,OECD,more beds,more drs,more nurses,High income
+Czechia,2010,Dr,3.6,6.928,7.167,9,15.373,OECD,more beds,more drs,more nurses,High income
+Czechia,2010,Nurse,8.1,6.928,7.167,9,15.373,OECD,more beds,more drs,more nurses,High income
+Czechia,2011,Bed,7.06,6.977,7.167,9,15.902,OECD,more beds,more drs,more nurses,High income
+Czechia,2011,Dr,3.64,6.977,7.167,9,15.902,OECD,more beds,more drs,more nurses,High income
+Czechia,2011,Nurse,8.03,6.977,7.167,9,15.902,OECD,more beds,more drs,more nurses,High income
+Czechia,2012,Bed,6.93,7.028,7.167,9,16.503,OECD,more beds,more drs,more nurses,High income
+Czechia,2012,Dr,3.67,7.028,7.167,9,16.503,OECD,more beds,more drs,more nurses,High income
+Czechia,2012,Nurse,8.06,7.028,7.167,9,16.503,OECD,more beds,more drs,more nurses,High income
+Czechia,2013,Bed,6.7,7.807,7.167,9,17.09,OECD,more beds,more drs,more nurses,High income
+Czechia,2013,Dr,3.69,7.807,7.167,9,17.09,OECD,more beds,more drs,more nurses,High income
+Czechia,2013,Nurse,7.99,7.807,7.167,9,17.09,OECD,more beds,more drs,more nurses,High income
+Czechia,2014,Bed,6.68,7.653,7.167,9,17.605,OECD,more beds,NA,more nurses,High income
+Czechia,2014,Dr,NA,7.653,7.167,9,17.605,OECD,more beds,NA,more nurses,High income
+Czechia,2014,Nurse,7.93,7.653,7.167,9,17.605,OECD,more beds,NA,more nurses,High income
+Czechia,2015,Bed,6.67,7.243,7.167,9,18.076,OECD,more beds,NA,more nurses,High income
+Czechia,2015,Dr,NA,7.243,7.167,9,18.076,OECD,more beds,NA,more nurses,High income
+Czechia,2015,Nurse,8.01,7.243,7.167,9,18.076,OECD,more beds,NA,more nurses,High income
+Czechia,2016,Bed,6.66,7.15,7.167,9,18.555,OECD,more beds,NA,more nurses,High income
+Czechia,2016,Dr,NA,7.15,7.167,9,18.555,OECD,more beds,NA,more nurses,High income
+Czechia,2016,Nurse,8.07,7.15,7.167,9,18.555,OECD,more beds,NA,more nurses,High income
+Czechia,2017,Bed,6.63,7.231,7.167,9,19.019,OECD,more beds,NA,more nurses,High income
+Czechia,2017,Dr,NA,7.231,7.167,9,19.019,OECD,more beds,NA,more nurses,High income
+Czechia,2017,Nurse,8.06,7.231,7.167,9,19.019,OECD,more beds,NA,more nurses,High income
+Denmark,2008,Bed,3.57,9.511,10.1748,23,15.743,OECD,less beds,more drs,more nurses,High income
+Denmark,2008,Dr,3.58,9.511,10.1748,23,15.743,OECD,less beds,more drs,more nurses,High income
+Denmark,2008,Nurse,9.55,9.511,10.1748,23,15.743,OECD,less beds,more drs,more nurses,High income
+Denmark,2009,Bed,3.49,10.674,10.1748,23,16.106,OECD,less beds,more drs,more nurses,High income
+Denmark,2009,Dr,3.65,10.674,10.1748,23,16.106,OECD,less beds,more drs,more nurses,High income
+Denmark,2009,Nurse,9.8,10.674,10.1748,23,16.106,OECD,less beds,more drs,more nurses,High income
+Denmark,2010,Bed,3.5,10.333,10.1748,23,16.58,OECD,less beds,more drs,more nurses,High income
+Denmark,2010,Dr,3.73,10.333,10.1748,23,16.58,OECD,less beds,more drs,more nurses,High income
+Denmark,2010,Nurse,9.82,10.333,10.1748,23,16.58,OECD,less beds,more drs,more nurses,High income
+Denmark,2011,Bed,3.13,10.153,10.1748,23,17.119,OECD,less beds,more drs,more nurses,High income
+Denmark,2011,Dr,3.79,10.153,10.1748,23,17.119,OECD,less beds,more drs,more nurses,High income
+Denmark,2011,Nurse,9.87,10.153,10.1748,23,17.119,OECD,less beds,more drs,more nurses,High income
+Denmark,2012,Bed,NA,10.241,10.1748,23,17.653,OECD,NA,more drs,more nurses,High income
+Denmark,2012,Dr,3.84,10.241,10.1748,23,17.653,OECD,NA,more drs,more nurses,High income
+Denmark,2012,Nurse,9.96,10.241,10.1748,23,17.653,OECD,NA,more drs,more nurses,High income
+Denmark,2013,Bed,3.07,10.17,10.1748,23,18.071,OECD,less beds,more drs,more nurses,High income
+Denmark,2013,Dr,3.85,10.17,10.1748,23,18.071,OECD,less beds,more drs,more nurses,High income
+Denmark,2013,Nurse,9.95,10.17,10.1748,23,18.071,OECD,less beds,more drs,more nurses,High income
+Denmark,2014,Bed,2.69,10.172,10.1748,23,18.453,OECD,less beds,more drs,more nurses,High income
+Denmark,2014,Dr,3.88,10.172,10.1748,23,18.453,OECD,less beds,more drs,more nurses,High income
+Denmark,2014,Nurse,9.93,10.172,10.1748,23,18.453,OECD,less beds,more drs,more nurses,High income
+Denmark,2015,Bed,2.53,10.227,10.1748,23,18.736,OECD,less beds,more drs,more nurses,High income
+Denmark,2015,Dr,3.93,10.227,10.1748,23,18.736,OECD,less beds,more drs,more nurses,High income
+Denmark,2015,Nurse,9.92,10.227,10.1748,23,18.736,OECD,less beds,more drs,more nurses,High income
+Denmark,2016,Bed,2.6,10.145,10.1748,23,18.972,OECD,less beds,more drs,more nurses,High income
+Denmark,2016,Dr,4,10.145,10.1748,23,18.972,OECD,less beds,more drs,more nurses,High income
+Denmark,2016,Nurse,9.95,10.145,10.1748,23,18.972,OECD,less beds,more drs,more nurses,High income
+Denmark,2017,Bed,2.61,10.122,10.1748,23,19.197,OECD,less beds,more drs,more nurses,High income
+Denmark,2017,Dr,4.11,10.122,10.1748,23,19.197,OECD,less beds,more drs,more nurses,High income
+Denmark,2017,Nurse,10.03,10.122,10.1748,23,19.197,OECD,less beds,more drs,more nurses,High income
+Finland,2008,Bed,6.57,8.343,9.3209,18,16.631,OECD,more beds,more drs,more nurses,High income
+Finland,2008,Dr,2.72,8.343,9.3209,18,16.631,OECD,more beds,more drs,more nurses,High income
+Finland,2008,Nurse,13.14,8.343,9.3209,18,16.631,OECD,more beds,more drs,more nurses,High income
+Finland,2009,Bed,6.25,9.161,9.3209,18,16.881,OECD,more beds,more drs,more nurses,High income
+Finland,2009,Dr,2.83,9.161,9.3209,18,16.881,OECD,more beds,more drs,more nurses,High income
+Finland,2009,Nurse,13.56,9.161,9.3209,18,16.881,OECD,more beds,more drs,more nurses,High income
+Finland,2010,Bed,5.85,9.142,9.3209,18,17.26,OECD,more beds,more drs,more nurses,High income
+Finland,2010,Dr,2.99,9.142,9.3209,18,17.26,OECD,more beds,more drs,more nurses,High income
+Finland,2010,Nurse,13.86,9.142,9.3209,18,17.26,OECD,more beds,more drs,more nurses,High income
+Finland,2011,Bed,5.52,9.223,9.3209,18,17.823,OECD,more beds,more drs,more nurses,High income
+Finland,2011,Dr,2.99,9.223,9.3209,18,17.823,OECD,more beds,more drs,more nurses,High income
+Finland,2011,Nurse,14.08,9.223,9.3209,18,17.823,OECD,more beds,more drs,more nurses,High income
+Finland,2012,Bed,5.3,9.586,9.3209,18,18.451,OECD,more beds,more drs,more nurses,High income
+Finland,2012,Dr,3.07,9.586,9.3209,18,18.451,OECD,more beds,more drs,more nurses,High income
+Finland,2012,Nurse,14.2,9.586,9.3209,18,18.451,OECD,more beds,more drs,more nurses,High income
+Finland,2013,Bed,4.87,9.805,9.3209,18,19.073,OECD,more beds,more drs,more nurses,High income
+Finland,2013,Dr,3.15,9.805,9.3209,18,19.073,OECD,more beds,more drs,more nurses,High income
+Finland,2013,Nurse,14.18,9.805,9.3209,18,19.073,OECD,more beds,more drs,more nurses,High income
+Finland,2014,Bed,4.53,9.781,9.3209,18,19.664,OECD,more beds,more drs,more nurses,High income
+Finland,2014,Dr,3.21,9.781,9.3209,18,19.664,OECD,more beds,more drs,more nurses,High income
+Finland,2014,Nurse,14.26,9.781,9.3209,18,19.664,OECD,more beds,more drs,more nurses,High income
+Finland,2015,Bed,4.35,9.645,9.3209,18,20.207,OECD,less beds,NA,NA,High income
+Finland,2015,Dr,NA,9.645,9.3209,18,20.207,OECD,less beds,NA,NA,High income
+Finland,2015,Nurse,NA,9.645,9.3209,18,20.207,OECD,less beds,NA,NA,High income
+Finland,2016,Bed,3.97,9.378,9.3209,18,20.682,OECD,less beds,NA,NA,High income
+Finland,2016,Dr,NA,9.378,9.3209,18,20.682,OECD,less beds,NA,NA,High income
+Finland,2016,Nurse,NA,9.378,9.3209,18,20.682,OECD,less beds,NA,NA,High income
+Finland,2017,Bed,3.28,9.145,9.3209,18,21.144,OECD,less beds,NA,NA,High income
+Finland,2017,Dr,NA,9.145,9.3209,18,21.144,OECD,less beds,NA,NA,High income
+Finland,2017,Nurse,NA,9.145,9.3209,18,21.144,OECD,less beds,NA,NA,High income
+France,2008,Bed,6.9,10.512,11.2949,31,16.441,OECD,more beds,more drs,more nurses,High income
+France,2008,Dr,3.31,10.512,11.2949,31,16.441,OECD,more beds,more drs,more nurses,High income
+France,2008,Nurse,7.91,10.512,11.2949,31,16.441,OECD,more beds,more drs,more nurses,High income
+France,2009,Bed,6.66,11.297,11.2949,31,16.553,OECD,more beds,more drs,more nurses,High income
+France,2009,Dr,3.27,11.297,11.2949,31,16.553,OECD,more beds,more drs,more nurses,High income
+France,2009,Nurse,8.19,11.297,11.2949,31,16.553,OECD,more beds,more drs,more nurses,High income
+France,2010,Bed,6.43,11.24,11.2949,31,16.674,OECD,more beds,more drs,more nurses,High income
+France,2010,Dr,3.27,11.24,11.2949,31,16.674,OECD,more beds,more drs,more nurses,High income
+France,2010,Nurse,8.45,11.24,11.2949,31,16.674,OECD,more beds,more drs,more nurses,High income
+France,2011,Bed,6.36,11.202,11.2949,31,16.939,OECD,more beds,more drs,more nurses,High income
+France,2011,Dr,3.31,11.202,11.2949,31,16.939,OECD,more beds,more drs,more nurses,High income
+France,2011,Nurse,8.71,11.202,11.2949,31,16.939,OECD,more beds,more drs,more nurses,High income
+France,2012,Bed,6.34,11.313,11.2949,31,17.354,OECD,more beds,more drs,more nurses,High income
+France,2012,Dr,3.32,11.313,11.2949,31,17.354,OECD,more beds,more drs,more nurses,High income
+France,2012,Nurse,9.1,11.313,11.2949,31,17.354,OECD,more beds,more drs,more nurses,High income
+France,2013,Bed,6.28,11.436,11.2949,31,17.792,OECD,more beds,more drs,more nurses,High income
+France,2013,Dr,3.33,11.436,11.2949,31,17.792,OECD,more beds,more drs,more nurses,High income
+France,2013,Nurse,9.38,11.436,11.2949,31,17.792,OECD,more beds,more drs,more nurses,High income
+France,2014,Bed,6.2,11.581,11.2949,31,18.186,OECD,more beds,more drs,more nurses,High income
+France,2014,Dr,3.33,11.581,11.2949,31,18.186,OECD,more beds,more drs,more nurses,High income
+France,2014,Nurse,9.62,11.581,11.2949,31,18.186,OECD,more beds,more drs,more nurses,High income
+France,2015,Bed,6.13,11.466,11.2949,31,18.634,OECD,more beds,more drs,more nurses,High income
+France,2015,Dr,3.34,11.466,11.2949,31,18.634,OECD,more beds,more drs,more nurses,High income
+France,2015,Nurse,9.93,11.466,11.2949,31,18.634,OECD,more beds,more drs,more nurses,High income
+France,2016,Bed,6.06,11.501,11.2949,31,19.054,OECD,more beds,more drs,more nurses,High income
+France,2016,Dr,3.35,11.501,11.2949,31,19.054,OECD,more beds,more drs,more nurses,High income
+France,2016,Nurse,10.21,11.501,11.2949,31,19.054,OECD,more beds,more drs,more nurses,High income
+France,2017,Bed,5.98,11.401,11.2949,31,19.451,OECD,more beds,more drs,more nurses,High income
+France,2017,Dr,3.37,11.401,11.2949,31,19.451,OECD,more beds,more drs,more nurses,High income
+France,2017,Nurse,10.48,11.401,11.2949,31,19.451,OECD,more beds,more drs,more nurses,High income
+Germany,2008,Bed,8.21,10.251,10.9988,30,20.246,OECD,more beds,more drs,more nurses,High income
+Germany,2008,Dr,3.54,10.251,10.9988,30,20.246,OECD,more beds,more drs,more nurses,High income
+Germany,2008,Nurse,11.13,10.251,10.9988,30,20.246,OECD,more beds,more drs,more nurses,High income
+Germany,2009,Bed,8.24,11.238,10.9988,30,20.531,OECD,more beds,more drs,more nurses,High income
+Germany,2009,Dr,3.62,11.238,10.9988,30,20.531,OECD,more beds,more drs,more nurses,High income
+Germany,2009,Nurse,11.42,11.238,10.9988,30,20.531,OECD,more beds,more drs,more nurses,High income
+Germany,2010,Bed,8.25,11.097,10.9988,30,20.633,OECD,more beds,more drs,more nurses,High income
+Germany,2010,Dr,3.71,11.097,10.9988,30,20.633,OECD,more beds,more drs,more nurses,High income
+Germany,2010,Nurse,11.52,11.097,10.9988,30,20.633,OECD,more beds,more drs,more nurses,High income
+Germany,2011,Bed,8.38,10.776,10.9988,30,20.666,OECD,more beds,more drs,more nurses,High income
+Germany,2011,Dr,3.88,10.776,10.9988,30,20.666,OECD,more beds,more drs,more nurses,High income
+Germany,2011,Nurse,11.87,10.776,10.9988,30,20.666,OECD,more beds,more drs,more nurses,High income
+Germany,2012,Bed,8.34,10.847,10.9988,30,20.714,OECD,more beds,more drs,more nurses,High income
+Germany,2012,Dr,3.95,10.847,10.9988,30,20.714,OECD,more beds,more drs,more nurses,High income
+Germany,2012,Nurse,11.96,10.847,10.9988,30,20.714,OECD,more beds,more drs,more nurses,High income
+Germany,2013,Bed,8.28,10.992,10.9988,30,20.812,OECD,more beds,more drs,more nurses,High income
+Germany,2013,Dr,4.04,10.992,10.9988,30,20.812,OECD,more beds,more drs,more nurses,High income
+Germany,2013,Nurse,12.34,10.992,10.9988,30,20.812,OECD,more beds,more drs,more nurses,High income
+Germany,2014,Bed,8.23,11.016,10.9988,30,20.956,OECD,more beds,more drs,more nurses,High income
+Germany,2014,Dr,4.11,11.016,10.9988,30,20.956,OECD,more beds,more drs,more nurses,High income
+Germany,2014,Nurse,12.55,11.016,10.9988,30,20.956,OECD,more beds,more drs,more nurses,High income
+Germany,2015,Bed,8.13,11.164,10.9988,30,21.049,OECD,more beds,more drs,more nurses,High income
+Germany,2015,Dr,4.14,11.164,10.9988,30,21.049,OECD,more beds,more drs,more nurses,High income
+Germany,2015,Nurse,12.65,11.164,10.9988,30,21.049,OECD,more beds,more drs,more nurses,High income
+Germany,2016,Bed,8.06,11.233,10.9988,30,21.136,OECD,more beds,more drs,more nurses,High income
+Germany,2016,Dr,4.19,11.233,10.9988,30,21.136,OECD,more beds,more drs,more nurses,High income
+Germany,2016,Nurse,12.82,11.233,10.9988,30,21.136,OECD,more beds,more drs,more nurses,High income
+Germany,2017,Bed,8,11.374,10.9988,30,21.305,OECD,more beds,more drs,more nurses,High income
+Germany,2017,Dr,4.25,11.374,10.9988,30,21.305,OECD,more beds,more drs,more nurses,High income
+Germany,2017,Nurse,13.13,11.374,10.9988,30,21.305,OECD,more beds,more drs,more nurses,High income
+Hungary,2008,Bed,7.11,7.097,7.1866,10,16.259,OECD,more beds,more drs,more nurses,High income
+Hungary,2008,Dr,3.09,7.097,7.1866,10,16.259,OECD,more beds,more drs,more nurses,High income
+Hungary,2008,Nurse,6.15,7.097,7.1866,10,16.259,OECD,more beds,more drs,more nurses,High income
+Hungary,2009,Bed,7.14,7.239,7.1866,10,16.481,OECD,more beds,more drs,more nurses,High income
+Hungary,2009,Dr,3.02,7.239,7.1866,10,16.481,OECD,more beds,more drs,more nurses,High income
+Hungary,2009,Nurse,6.21,7.239,7.1866,10,16.481,OECD,more beds,more drs,more nurses,High income
+Hungary,2010,Bed,7.18,7.508,7.1866,10,16.673,OECD,more beds,more drs,more nurses,High income
+Hungary,2010,Dr,2.87,7.508,7.1866,10,16.673,OECD,more beds,more drs,more nurses,High income
+Hungary,2010,Nurse,6.21,7.508,7.1866,10,16.673,OECD,more beds,more drs,more nurses,High income
+Hungary,2011,Bed,7.19,7.525,7.1866,10,16.804,OECD,more beds,more drs,more nurses,High income
+Hungary,2011,Dr,2.96,7.525,7.1866,10,16.804,OECD,more beds,more drs,more nurses,High income
+Hungary,2011,Nurse,6.21,7.525,7.1866,10,16.804,OECD,more beds,more drs,more nurses,High income
+Hungary,2012,Bed,7,7.449,7.1866,10,17.024,OECD,more beds,more drs,less nurses,High income
+Hungary,2012,Dr,3.09,7.449,7.1866,10,17.024,OECD,more beds,more drs,less nurses,High income
+Hungary,2012,Nurse,6.32,7.449,7.1866,10,17.024,OECD,more beds,more drs,less nurses,High income
+Hungary,2013,Bed,7.04,7.249,7.1866,10,17.353,OECD,more beds,more drs,less nurses,High income
+Hungary,2013,Dr,3.21,7.249,7.1866,10,17.353,OECD,more beds,more drs,less nurses,High income
+Hungary,2013,Nurse,6.43,7.249,7.1866,10,17.353,OECD,more beds,more drs,less nurses,High income
+Hungary,2014,Bed,6.98,7.07,7.1866,10,17.717,OECD,more beds,more drs,less nurses,High income
+Hungary,2014,Dr,3.32,7.07,7.1866,10,17.717,OECD,more beds,more drs,less nurses,High income
+Hungary,2014,Nurse,6.41,7.07,7.1866,10,17.717,OECD,more beds,more drs,less nurses,High income
+Hungary,2015,Bed,6.99,6.889,7.1866,10,18.088,OECD,more beds,more drs,less nurses,High income
+Hungary,2015,Dr,3.1,6.889,7.1866,10,18.088,OECD,more beds,more drs,less nurses,High income
+Hungary,2015,Nurse,6.47,6.889,7.1866,10,18.088,OECD,more beds,more drs,less nurses,High income
+Hungary,2016,Bed,7,7.048,7.1866,10,18.467,OECD,more beds,more drs,less nurses,High income
+Hungary,2016,Dr,3.21,7.048,7.1866,10,18.467,OECD,more beds,more drs,less nurses,High income
+Hungary,2016,Nurse,6.44,7.048,7.1866,10,18.467,OECD,more beds,more drs,less nurses,High income
+Hungary,2017,Bed,7.02,6.792,7.1866,10,18.8,OECD,more beds,more drs,less nurses,High income
+Hungary,2017,Dr,3.32,6.792,7.1866,10,18.8,OECD,more beds,more drs,less nurses,High income
+Hungary,2017,Nurse,6.51,6.792,7.1866,10,18.8,OECD,more beds,more drs,less nurses,High income
+Iceland,2008,Bed,3.91,8.587,8.3572,12,11.591,OECD,less beds,more drs,more nurses,High income
+Iceland,2008,Dr,3.64,8.587,8.3572,12,11.591,OECD,less beds,more drs,more nurses,High income
+Iceland,2008,Nurse,14.89,8.587,8.3572,12,11.591,OECD,less beds,more drs,more nurses,High income
+Iceland,2009,Bed,3.7,8.868,8.3572,12,11.812,OECD,less beds,more drs,more nurses,High income
+Iceland,2009,Dr,3.65,8.868,8.3572,12,11.812,OECD,less beds,more drs,more nurses,High income
+Iceland,2009,Nurse,15.29,8.868,8.3572,12,11.812,OECD,less beds,more drs,more nurses,High income
+Iceland,2010,Bed,3.58,8.532,8.3572,12,12.144,OECD,less beds,more drs,more nurses,High income
+Iceland,2010,Dr,3.59,8.532,8.3572,12,12.144,OECD,less beds,more drs,more nurses,High income
+Iceland,2010,Nurse,14.54,8.532,8.3572,12,12.144,OECD,less beds,more drs,more nurses,High income
+Iceland,2011,Bed,3.29,8.251,8.3572,12,12.459,OECD,less beds,more drs,more nurses,High income
+Iceland,2011,Dr,3.5,8.251,8.3572,12,12.459,OECD,less beds,more drs,more nurses,High income
+Iceland,2011,Nurse,14.82,8.251,8.3572,12,12.459,OECD,less beds,more drs,more nurses,High income
+Iceland,2012,Bed,3.25,8.195,8.3572,12,12.784,OECD,less beds,more drs,more nurses,High income
+Iceland,2012,Dr,3.56,8.195,8.3572,12,12.784,OECD,less beds,more drs,more nurses,High income
+Iceland,2012,Nurse,15.16,8.195,8.3572,12,12.784,OECD,less beds,more drs,more nurses,High income
+Iceland,2013,Bed,3.22,8.221,8.3572,12,13.083,OECD,less beds,more drs,more nurses,High income
+Iceland,2013,Dr,3.61,8.221,8.3572,12,13.083,OECD,less beds,more drs,more nurses,High income
+Iceland,2013,Nurse,15.45,8.221,8.3572,12,13.083,OECD,less beds,more drs,more nurses,High income
+Iceland,2014,Bed,3.16,8.279,8.3572,12,13.376,OECD,less beds,more drs,more nurses,High income
+Iceland,2014,Dr,3.64,8.279,8.3572,12,13.376,OECD,less beds,more drs,more nurses,High income
+Iceland,2014,Nurse,15.33,8.279,8.3572,12,13.376,OECD,less beds,more drs,more nurses,High income
+Iceland,2015,Bed,3.12,8.131,8.3572,12,13.695,OECD,less beds,more drs,more nurses,High income
+Iceland,2015,Dr,3.78,8.131,8.3572,12,13.695,OECD,less beds,more drs,more nurses,High income
+Iceland,2015,Nurse,15.45,8.131,8.3572,12,13.695,OECD,less beds,more drs,more nurses,High income
+Iceland,2016,Bed,3.13,8.165,8.3572,12,13.939,OECD,less beds,more drs,more nurses,High income
+Iceland,2016,Dr,3.85,8.165,8.3572,12,13.939,OECD,less beds,more drs,more nurses,High income
+Iceland,2016,Nurse,14.22,8.165,8.3572,12,13.939,OECD,less beds,more drs,more nurses,High income
+Iceland,2017,Bed,3.06,8.343,8.3572,12,14.039,OECD,less beds,more drs,more nurses,High income
+Iceland,2017,Dr,3.87,8.343,8.3572,12,14.039,OECD,less beds,more drs,more nurses,High income
+Iceland,2017,Nurse,14.5,8.343,8.3572,12,14.039,OECD,less beds,more drs,more nurses,High income
+Ireland,2008,Bed,4.85,9.102,9.3349,19,10.786,OECD,more beds,NA,more nurses,High income
+Ireland,2008,Dr,NA,9.102,9.3349,19,10.786,OECD,more beds,NA,more nurses,High income
+Ireland,2008,Nurse,13.55,9.102,9.3349,19,10.786,OECD,more beds,NA,more nurses,High income
+Ireland,2009,Bed,2.83,10.487,9.3349,19,11.005,OECD,less beds,NA,more nurses,High income
+Ireland,2009,Dr,NA,10.487,9.3349,19,11.005,OECD,less beds,NA,more nurses,High income
+Ireland,2009,Nurse,12.93,10.487,9.3349,19,11.005,OECD,less beds,NA,more nurses,High income
+Ireland,2010,Bed,2.73,10.503,9.3349,19,11.308,OECD,less beds,NA,more nurses,High income
+Ireland,2010,Dr,NA,10.503,9.3349,19,11.308,OECD,less beds,NA,more nurses,High income
+Ireland,2010,Nurse,13.45,10.503,9.3349,19,11.308,OECD,less beds,NA,more nurses,High income
+Ireland,2011,Bed,2.62,10.708,9.3349,19,11.619,OECD,less beds,more drs,more nurses,High income
+Ireland,2011,Dr,2.67,10.708,9.3349,19,11.619,OECD,less beds,more drs,more nurses,High income
+Ireland,2011,Nurse,12.94,10.708,9.3349,19,11.619,OECD,less beds,more drs,more nurses,High income
+Ireland,2012,Bed,2.54,10.687,9.3349,19,11.974,OECD,less beds,more drs,more nurses,High income
+Ireland,2012,Dr,2.71,10.687,9.3349,19,11.974,OECD,less beds,more drs,more nurses,High income
+Ireland,2012,Nurse,12.99,10.687,9.3349,19,11.974,OECD,less beds,more drs,more nurses,High income
+Ireland,2013,Bed,2.56,10.3,9.3349,19,12.334,OECD,less beds,more drs,more nurses,High income
+Ireland,2013,Dr,2.67,10.3,9.3349,19,12.334,OECD,less beds,more drs,more nurses,High income
+Ireland,2013,Nurse,12.55,10.3,9.3349,19,12.334,OECD,less beds,more drs,more nurses,High income
+Ireland,2014,Bed,2.57,9.676,9.3349,19,12.69,OECD,less beds,more drs,more nurses,High income
+Ireland,2014,Dr,3.01,9.676,9.3349,19,12.69,OECD,less beds,more drs,more nurses,High income
+Ireland,2014,Nurse,12.18,9.676,9.3349,19,12.69,OECD,less beds,more drs,more nurses,High income
+Ireland,2015,Bed,2.92,7.317,9.3349,19,13.018,OECD,less beds,more drs,more nurses,High income
+Ireland,2015,Dr,3.12,7.317,9.3349,19,13.018,OECD,less beds,more drs,more nurses,High income
+Ireland,2015,Nurse,12.35,7.317,9.3349,19,13.018,OECD,less beds,more drs,more nurses,High income
+Ireland,2016,Bed,2.96,7.414,9.3349,19,13.289,OECD,less beds,more drs,more nurses,High income
+Ireland,2016,Dr,3.19,7.414,9.3349,19,13.289,OECD,less beds,more drs,more nurses,High income
+Ireland,2016,Nurse,11.56,7.414,9.3349,19,13.289,OECD,less beds,more drs,more nurses,High income
+Ireland,2017,Bed,2.97,7.155,9.3349,19,13.56,OECD,less beds,more drs,more nurses,High income
+Ireland,2017,Dr,3.26,7.155,9.3349,19,13.56,OECD,less beds,more drs,more nurses,High income
+Ireland,2017,Nurse,12.16,7.155,9.3349,19,13.56,OECD,less beds,more drs,more nurses,High income
+Italy,2008,Bed,3.79,8.533,8.786200000000001,14,20.244,OECD,less beds,more drs,NA,High income
+Italy,2008,Dr,3.79,8.533,8.786200000000001,14,20.244,OECD,less beds,more drs,NA,High income
+Italy,2008,Nurse,NA,8.533,8.786200000000001,14,20.244,OECD,less beds,more drs,NA,High income
+Italy,2009,Bed,3.69,8.952,8.786200000000001,14,20.355,OECD,less beds,more drs,NA,High income
+Italy,2009,Dr,3.79,8.952,8.786200000000001,14,20.355,OECD,less beds,more drs,NA,High income
+Italy,2009,Nurse,NA,8.952,8.786200000000001,14,20.355,OECD,less beds,more drs,NA,High income
+Italy,2010,Bed,3.64,8.916,8.786200000000001,14,20.459,OECD,less beds,more drs,NA,High income
+Italy,2010,Dr,3.82,8.916,8.786200000000001,14,20.459,OECD,less beds,more drs,NA,High income
+Italy,2010,Nurse,NA,8.916,8.786200000000001,14,20.459,OECD,less beds,more drs,NA,High income
+Italy,2011,Bed,3.52,8.774,8.786200000000001,14,20.665,OECD,less beds,more drs,more nurses,High income
+Italy,2011,Dr,3.9,8.774,8.786200000000001,14,20.665,OECD,less beds,more drs,more nurses,High income
+Italy,2011,Nurse,6.48,8.774,8.786200000000001,14,20.665,OECD,less beds,more drs,more nurses,High income
+Italy,2012,Bed,3.42,8.784,8.786200000000001,14,21.003,OECD,less beds,more drs,less nurses,High income
+Italy,2012,Dr,3.87,8.784,8.786200000000001,14,21.003,OECD,less beds,more drs,less nurses,High income
+Italy,2012,Nurse,6.41,8.784,8.786200000000001,14,21.003,OECD,less beds,more drs,less nurses,High income
+Italy,2013,Bed,3.31,8.775,8.786200000000001,14,21.296,OECD,less beds,more drs,less nurses,High income
+Italy,2013,Dr,3.9,8.775,8.786200000000001,14,21.296,OECD,less beds,more drs,less nurses,High income
+Italy,2013,Nurse,6.14,8.775,8.786200000000001,14,21.296,OECD,less beds,more drs,less nurses,High income
+Italy,2014,Bed,3.21,8.868,8.786200000000001,14,21.578,OECD,less beds,more drs,less nurses,High income
+Italy,2014,Dr,3.88,8.868,8.786200000000001,14,21.578,OECD,less beds,more drs,less nurses,High income
+Italy,2014,Nurse,6.15,8.868,8.786200000000001,14,21.578,OECD,less beds,more drs,less nurses,High income
+Italy,2015,Bed,3.2,8.857,8.786200000000001,14,21.891,OECD,less beds,more drs,less nurses,High income
+Italy,2015,Dr,3.84,8.857,8.786200000000001,14,21.891,OECD,less beds,more drs,less nurses,High income
+Italy,2015,Nurse,6.11,8.857,8.786200000000001,14,21.891,OECD,less beds,more drs,less nurses,High income
+Italy,2016,Bed,3.17,8.725,8.786200000000001,14,22.183,OECD,less beds,more drs,less nurses,High income
+Italy,2016,Dr,3.95,8.725,8.786200000000001,14,22.183,OECD,less beds,more drs,less nurses,High income
+Italy,2016,Nurse,6.54,8.725,8.786200000000001,14,22.183,OECD,less beds,more drs,less nurses,High income
+Italy,2017,Bed,3.18,8.678,8.786200000000001,14,22.443,OECD,less beds,more drs,less nurses,High income
+Italy,2017,Dr,3.99,8.678,8.786200000000001,14,22.443,OECD,less beds,more drs,less nurses,High income
+Italy,2017,Nurse,6.71,8.678,8.786200000000001,14,22.443,OECD,less beds,more drs,less nurses,High income
+Japan,2008,Bed,13.71,8.2,10.1964,24,22.098,OECD,more beds,more drs,more nurses,High income
+Japan,2008,Dr,2.15,8.2,10.1964,24,22.098,OECD,more beds,more drs,more nurses,High income
+Japan,2008,Nurse,9.58,8.2,10.1964,24,22.098,OECD,more beds,more drs,more nurses,High income
+Japan,2009,Bed,13.62,9.058,10.1964,24,22.749,OECD,more beds,NA,NA,High income
+Japan,2009,Dr,NA,9.058,10.1964,24,22.749,OECD,more beds,NA,NA,High income
+Japan,2009,Nurse,NA,9.058,10.1964,24,22.749,OECD,more beds,NA,NA,High income
+Japan,2010,Bed,13.51,9.157,10.1964,24,23.024,OECD,more beds,more drs,more nurses,High income
+Japan,2010,Dr,2.21,9.157,10.1964,24,23.024,OECD,more beds,more drs,more nurses,High income
+Japan,2010,Nurse,10.11,9.157,10.1964,24,23.024,OECD,more beds,more drs,more nurses,High income
+Japan,2011,Bed,13.4,10.617,10.1964,24,23.28,OECD,more beds,NA,NA,High income
+Japan,2011,Dr,NA,10.617,10.1964,24,23.28,OECD,more beds,NA,NA,High income
+Japan,2011,Nurse,NA,10.617,10.1964,24,23.28,OECD,more beds,NA,NA,High income
+Japan,2012,Bed,13.35,10.791,10.1964,24,24.148,OECD,more beds,more drs,more nurses,High income
+Japan,2012,Dr,2.29,10.791,10.1964,24,24.148,OECD,more beds,more drs,more nurses,High income
+Japan,2012,Nurse,10.54,10.791,10.1964,24,24.148,OECD,more beds,more drs,more nurses,High income
+Japan,2013,Bed,13.3,10.792,10.1964,24,25.057,OECD,more beds,NA,NA,High income
+Japan,2013,Dr,NA,10.792,10.1964,24,25.057,OECD,more beds,NA,NA,High income
+Japan,2013,Nurse,NA,10.792,10.1964,24,25.057,OECD,more beds,NA,NA,High income
+Japan,2014,Bed,13.21,10.832,10.1964,24,25.966,OECD,more beds,more drs,more nurses,High income
+Japan,2014,Dr,2.36,10.832,10.1964,24,25.966,OECD,more beds,more drs,more nurses,High income
+Japan,2014,Nurse,10.96,10.832,10.1964,24,25.966,OECD,more beds,more drs,more nurses,High income
+Japan,2015,Bed,13.17,10.886,10.1964,24,26.648,OECD,more beds,NA,NA,High income
+Japan,2015,Dr,NA,10.886,10.1964,24,26.648,OECD,more beds,NA,NA,High income
+Japan,2015,Nurse,NA,10.886,10.1964,24,26.648,OECD,more beds,NA,NA,High income
+Japan,2016,Bed,13.11,10.835,10.1964,24,27.251,OECD,more beds,more drs,more nurses,High income
+Japan,2016,Dr,2.43,10.835,10.1964,24,27.251,OECD,more beds,more drs,more nurses,High income
+Japan,2016,Nurse,11.34,10.835,10.1964,24,27.251,OECD,more beds,more drs,more nurses,High income
+Japan,2017,Bed,13.05,10.796,10.1964,24,27.743,OECD,more beds,NA,NA,High income
+Japan,2017,Dr,NA,10.796,10.1964,24,27.743,OECD,more beds,NA,NA,High income
+Japan,2017,Nurse,NA,10.796,10.1964,24,27.743,OECD,more beds,NA,NA,High income
+South Korea,2008,Bed,7.73,5.399,6.2635,5,10.169,OECD,more beds,more drs,less nurses,High income
+South Korea,2008,Dr,1.85,5.399,6.2635,5,10.169,OECD,more beds,more drs,less nurses,High income
+South Korea,2008,Nurse,4.32,5.399,6.2635,5,10.169,OECD,more beds,more drs,less nurses,High income
+South Korea,2009,Bed,8.19,5.782,6.2635,5,10.499,OECD,more beds,more drs,less nurses,High income
+South Korea,2009,Dr,1.92,5.782,6.2635,5,10.499,OECD,more beds,more drs,less nurses,High income
+South Korea,2009,Nurse,4.46,5.782,6.2635,5,10.499,OECD,more beds,more drs,less nurses,High income
+South Korea,2010,Bed,8.74,5.917,6.2635,5,10.829,OECD,more beds,more drs,less nurses,High income
+South Korea,2010,Dr,1.98,5.917,6.2635,5,10.829,OECD,more beds,more drs,less nurses,High income
+South Korea,2010,Nurse,4.61,5.917,6.2635,5,10.829,OECD,more beds,more drs,less nurses,High income
+South Korea,2011,Bed,9.53,6.008,6.2635,5,11.044,OECD,more beds,more drs,less nurses,High income
+South Korea,2011,Dr,2.03,6.008,6.2635,5,11.044,OECD,more beds,more drs,less nurses,High income
+South Korea,2011,Nurse,4.71,6.008,6.2635,5,11.044,OECD,more beds,more drs,less nurses,High income
+South Korea,2012,Bed,10.25,6.133,6.2635,5,11.488,OECD,more beds,more drs,less nurses,High income
+South Korea,2012,Dr,2.07,6.133,6.2635,5,11.488,OECD,more beds,more drs,less nurses,High income
+South Korea,2012,Nurse,4.83,6.133,6.2635,5,11.488,OECD,more beds,more drs,less nurses,High income
+South Korea,2013,Bed,10.92,6.248,6.2635,5,11.943,OECD,more beds,more drs,less nurses,High income
+South Korea,2013,Dr,2.16,6.248,6.2635,5,11.943,OECD,more beds,more drs,less nurses,High income
+South Korea,2013,Nurse,5.2,6.248,6.2635,5,11.943,OECD,more beds,more drs,less nurses,High income
+South Korea,2014,Bed,11.59,6.474,6.2635,5,12.37,OECD,more beds,more drs,less nurses,High income
+South Korea,2014,Dr,2.2,6.474,6.2635,5,12.37,OECD,more beds,more drs,less nurses,High income
+South Korea,2014,Nurse,5.57,6.474,6.2635,5,12.37,OECD,more beds,more drs,less nurses,High income
+South Korea,2015,Bed,11.61,6.653,6.2635,5,12.822,OECD,more beds,less drs,less nurses,High income
+South Korea,2015,Dr,2.24,6.653,6.2635,5,12.822,OECD,more beds,less drs,less nurses,High income
+South Korea,2015,Nurse,5.94,6.653,6.2635,5,12.822,OECD,more beds,less drs,less nurses,High income
+South Korea,2016,Bed,11.98,6.914,6.2635,5,13.193,OECD,more beds,less drs,less nurses,High income
+South Korea,2016,Dr,2.29,6.914,6.2635,5,13.193,OECD,more beds,less drs,less nurses,High income
+South Korea,2016,Nurse,6.82,6.914,6.2635,5,13.193,OECD,more beds,less drs,less nurses,High income
+South Korea,2017,Bed,12.27,7.107,6.2635,5,13.757,OECD,more beds,less drs,less nurses,High income
+South Korea,2017,Dr,2.34,7.107,6.2635,5,13.757,OECD,more beds,less drs,less nurses,High income
+South Korea,2017,Nurse,6.94,7.107,6.2635,5,13.757,OECD,more beds,less drs,less nurses,High income
+Luxembourg,2008,Bed,5.57,6.538,5.9307,3,13.976,OECD,more beds,more drs,NA,High income
+Luxembourg,2008,Dr,2.72,6.538,5.9307,3,13.976,OECD,more beds,more drs,NA,High income
+Luxembourg,2008,Nurse,NA,6.538,5.9307,3,13.976,OECD,more beds,more drs,NA,High income
+Luxembourg,2009,Bed,5.47,7.34,5.9307,3,13.955,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2009,Dr,2.7,7.34,5.9307,3,13.955,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2009,Nurse,11.12,7.34,5.9307,3,13.955,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2010,Bed,5.37,7.031,5.9307,3,13.919,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2010,Dr,2.77,7.031,5.9307,3,13.919,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2010,Nurse,11.05,7.031,5.9307,3,13.919,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2011,Bed,5.28,6.112,5.9307,3,13.924,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2011,Dr,2.78,6.112,5.9307,3,13.924,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2011,Nurse,11.27,6.112,5.9307,3,13.924,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2012,Bed,5.15,5.584,5.9307,3,13.967,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2012,Dr,2.81,5.584,5.9307,3,13.967,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2012,Nurse,11.92,5.584,5.9307,3,13.967,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2013,Bed,5.17,5.528,5.9307,3,14.026,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2013,Dr,2.83,5.528,5.9307,3,14.026,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2013,Nurse,11.93,5.528,5.9307,3,14.026,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2014,Bed,5.05,5.437,5.9307,3,14.13,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2014,Dr,2.88,5.437,5.9307,3,14.13,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2014,Nurse,11.97,5.437,5.9307,3,14.13,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2015,Bed,4.93,5.284,5.9307,3,14.202,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2015,Dr,2.91,5.284,5.9307,3,14.202,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2015,Nurse,11.91,5.284,5.9307,3,14.202,OECD,more beds,more drs,more nurses,High income
+Luxembourg,2016,Bed,4.81,5.195,5.9307,3,14.233,OECD,less beds,more drs,more nurses,High income
+Luxembourg,2016,Dr,2.88,5.195,5.9307,3,14.233,OECD,less beds,more drs,more nurses,High income
+Luxembourg,2016,Nurse,11.72,5.195,5.9307,3,14.233,OECD,less beds,more drs,more nurses,High income
+Luxembourg,2017,Bed,4.66,5.258,5.9307,3,14.282,OECD,less beds,more drs,more nurses,High income
+Luxembourg,2017,Dr,2.98,5.258,5.9307,3,14.282,OECD,less beds,more drs,more nurses,High income
+Luxembourg,2017,Nurse,11.72,5.258,5.9307,3,14.282,OECD,less beds,more drs,more nurses,High income
+Netherlands,2008,Bed,4.31,9.277,10.198599999999999,25,14.857,OECD,less beds,more drs,more nurses,High income
+Netherlands,2008,Dr,2.87,9.277,10.198599999999999,25,14.857,OECD,less beds,more drs,more nurses,High income
+Netherlands,2008,Nurse,11.67,9.277,10.198599999999999,25,14.857,OECD,less beds,more drs,more nurses,High income
+Netherlands,2009,Bed,4.27,9.993,10.198599999999999,25,15.154,OECD,more beds,more drs,more nurses,High income
+Netherlands,2009,Dr,2.92,9.993,10.198599999999999,25,15.154,OECD,more beds,more drs,more nurses,High income
+Netherlands,2009,Nurse,11.66,9.993,10.198599999999999,25,15.154,OECD,more beds,more drs,more nurses,High income
+Netherlands,2010,Bed,4.2,10.155,10.198599999999999,25,15.447,OECD,more beds,more drs,more nurses,High income
+Netherlands,2010,Dr,2.96,10.155,10.198599999999999,25,15.447,OECD,more beds,more drs,more nurses,High income
+Netherlands,2010,Nurse,11.76,10.155,10.198599999999999,25,15.447,OECD,more beds,more drs,more nurses,High income
+Netherlands,2011,Bed,4.05,10.234,10.198599999999999,25,15.909,OECD,more beds,more drs,more nurses,High income
+Netherlands,2011,Dr,3.13,10.234,10.198599999999999,25,15.909,OECD,more beds,more drs,more nurses,High income
+Netherlands,2011,Nurse,11.91,10.234,10.198599999999999,25,15.909,OECD,more beds,more drs,more nurses,High income
+Netherlands,2012,Bed,3.84,10.539,10.198599999999999,25,16.535,OECD,less beds,more drs,more nurses,High income
+Netherlands,2012,Dr,3.25,10.539,10.198599999999999,25,16.535,OECD,less beds,more drs,more nurses,High income
+Netherlands,2012,Nurse,12.13,10.539,10.198599999999999,25,16.535,OECD,less beds,more drs,more nurses,High income
+Netherlands,2013,Bed,3.75,10.584,10.198599999999999,25,17.089,OECD,less beds,more drs,more nurses,High income
+Netherlands,2013,Dr,3.31,10.584,10.198599999999999,25,17.089,OECD,less beds,more drs,more nurses,High income
+Netherlands,2013,Nurse,12.23,10.584,10.198599999999999,25,17.089,OECD,less beds,more drs,more nurses,High income
+Netherlands,2014,Bed,3.61,10.567,10.198599999999999,25,17.571,OECD,less beds,NA,NA,High income
+Netherlands,2014,Dr,NA,10.567,10.198599999999999,25,17.571,OECD,less beds,NA,NA,High income
+Netherlands,2014,Nurse,NA,10.567,10.198599999999999,25,17.571,OECD,less beds,NA,NA,High income
+Netherlands,2015,Bed,3.49,10.324,10.198599999999999,25,17.984,OECD,less beds,NA,NA,High income
+Netherlands,2015,Dr,NA,10.324,10.198599999999999,25,17.984,OECD,less beds,NA,NA,High income
+Netherlands,2015,Nurse,NA,10.324,10.198599999999999,25,17.984,OECD,less beds,NA,NA,High income
+Netherlands,2016,Bed,3.41,10.253,10.198599999999999,25,18.335,OECD,less beds,NA,NA,High income
+Netherlands,2016,Dr,NA,10.253,10.198599999999999,25,18.335,OECD,less beds,NA,NA,High income
+Netherlands,2016,Nurse,NA,10.253,10.198599999999999,25,18.335,OECD,less beds,NA,NA,High income
+Netherlands,2017,Bed,3.28,10.06,10.198599999999999,25,18.676,OECD,less beds,NA,NA,High income
+Netherlands,2017,Dr,NA,10.06,10.198599999999999,25,18.676,OECD,less beds,NA,NA,High income
+Netherlands,2017,Nurse,NA,10.06,10.198599999999999,25,18.676,OECD,less beds,NA,NA,High income
+New Zealand,2008,Bed,NA,9.113,9.387,20,12.561,OECD,NA,more drs,more nurses,High income
+New Zealand,2008,Dr,2.46,9.113,9.387,20,12.561,OECD,NA,more drs,more nurses,High income
+New Zealand,2008,Nurse,9.77,9.113,9.387,20,12.561,OECD,NA,more drs,more nurses,High income
+New Zealand,2009,Bed,2.41,9.622,9.387,20,12.744,OECD,less beds,more drs,more nurses,High income
+New Zealand,2009,Dr,2.58,9.622,9.387,20,12.744,OECD,less beds,more drs,more nurses,High income
+New Zealand,2009,Nurse,9.73,9.622,9.387,20,12.744,OECD,less beds,more drs,more nurses,High income
+New Zealand,2010,Bed,2.75,9.586,9.387,20,12.951,OECD,less beds,more drs,more nurses,High income
+New Zealand,2010,Dr,2.62,9.586,9.387,20,12.951,OECD,less beds,more drs,more nurses,High income
+New Zealand,2010,Nurse,10.06,9.586,9.387,20,12.951,OECD,less beds,more drs,more nurses,High income
+New Zealand,2011,Bed,2.82,9.508,9.387,20,13.232,OECD,less beds,more drs,more nurses,High income
+New Zealand,2011,Dr,2.65,9.508,9.387,20,13.232,OECD,less beds,more drs,more nurses,High income
+New Zealand,2011,Nurse,10.12,9.508,9.387,20,13.232,OECD,less beds,more drs,more nurses,High income
+New Zealand,2012,Bed,2.83,9.649,9.387,20,13.679,OECD,less beds,more drs,more nurses,High income
+New Zealand,2012,Dr,2.72,9.649,9.387,20,13.679,OECD,less beds,more drs,more nurses,High income
+New Zealand,2012,Nurse,10.02,9.649,9.387,20,13.679,OECD,less beds,more drs,more nurses,High income
+New Zealand,2013,Bed,2.78,9.363,9.387,20,14.092,OECD,less beds,more drs,more nurses,High income
+New Zealand,2013,Dr,2.83,9.363,9.387,20,14.092,OECD,less beds,more drs,more nurses,High income
+New Zealand,2013,Nurse,10.07,9.363,9.387,20,14.092,OECD,less beds,more drs,more nurses,High income
+New Zealand,2014,Bed,2.76,9.42,9.387,20,14.423,OECD,less beds,more drs,more nurses,High income
+New Zealand,2014,Dr,2.9,9.42,9.387,20,14.423,OECD,less beds,more drs,more nurses,High income
+New Zealand,2014,Nurse,10.12,9.42,9.387,20,14.423,OECD,less beds,more drs,more nurses,High income
+New Zealand,2015,Bed,2.72,9.315,9.387,20,14.674,OECD,less beds,more drs,more nurses,High income
+New Zealand,2015,Dr,3.05,9.315,9.387,20,14.674,OECD,less beds,more drs,more nurses,High income
+New Zealand,2015,Nurse,10.28,9.315,9.387,20,14.674,OECD,less beds,more drs,more nurses,High income
+New Zealand,2016,Bed,2.74,9.274,9.387,20,14.88,OECD,less beds,more drs,more nurses,High income
+New Zealand,2016,Dr,3.14,9.274,9.387,20,14.88,OECD,less beds,more drs,more nurses,High income
+New Zealand,2016,Nurse,10.32,9.274,9.387,20,14.88,OECD,less beds,more drs,more nurses,High income
+New Zealand,2017,Bed,2.73,9.02,9.387,20,15.082,OECD,less beds,more drs,more nurses,High income
+New Zealand,2017,Dr,3.29,9.02,9.387,20,15.082,OECD,less beds,more drs,more nurses,High income
+New Zealand,2017,Nurse,10.23,9.02,9.387,20,15.082,OECD,less beds,more drs,more nurses,High income
+Norway,2008,Bed,4.64,7.961,9.2821,17,14.661,OECD,more beds,more drs,more nurses,High income
+Norway,2008,Dr,4,7.961,9.2821,17,14.661,OECD,more beds,more drs,more nurses,High income
+Norway,2008,Nurse,14,7.961,9.2821,17,14.661,OECD,more beds,more drs,more nurses,High income
+Norway,2009,Bed,4.52,9.074,9.2821,17,14.781,OECD,more beds,more drs,more nurses,High income
+Norway,2009,Dr,4.05,9.074,9.2821,17,14.781,OECD,more beds,more drs,more nurses,High income
+Norway,2009,Nurse,15.93,9.074,9.2821,17,14.781,OECD,more beds,more drs,more nurses,High income
+Norway,2010,Bed,4.3,8.906,9.2821,17,14.981,OECD,more beds,more drs,more nurses,High income
+Norway,2010,Dr,4.11,8.906,9.2821,17,14.981,OECD,more beds,more drs,more nurses,High income
+Norway,2010,Nurse,16.13,8.906,9.2821,17,14.981,OECD,more beds,more drs,more nurses,High income
+Norway,2011,Bed,4.19,8.789,9.2821,17,15.246,OECD,more beds,more drs,more nurses,High income
+Norway,2011,Dr,4.19,8.789,9.2821,17,15.246,OECD,more beds,more drs,more nurses,High income
+Norway,2011,Nurse,16.4,8.789,9.2821,17,15.246,OECD,more beds,more drs,more nurses,High income
+Norway,2012,Bed,3.97,8.778,9.2821,17,15.529,OECD,less beds,more drs,more nurses,High income
+Norway,2012,Dr,4.23,8.778,9.2821,17,15.529,OECD,less beds,more drs,more nurses,High income
+Norway,2012,Nurse,16.53,8.778,9.2821,17,15.529,OECD,less beds,more drs,more nurses,High income
+Norway,2013,Bed,3.86,8.93,9.2821,17,15.779,OECD,less beds,more drs,more nurses,High income
+Norway,2013,Dr,4.31,8.93,9.2821,17,15.779,OECD,less beds,more drs,more nurses,High income
+Norway,2013,Nurse,16.67,8.93,9.2821,17,15.779,OECD,less beds,more drs,more nurses,High income
+Norway,2014,Bed,3.84,9.345,9.2821,17,16.028,OECD,less beds,more drs,more nurses,High income
+Norway,2014,Dr,4.43,9.345,9.2821,17,16.028,OECD,less beds,more drs,more nurses,High income
+Norway,2014,Nurse,16.89,9.345,9.2821,17,16.028,OECD,less beds,more drs,more nurses,High income
+Norway,2015,Bed,3.76,10.131,9.2821,17,16.276,OECD,less beds,more drs,more nurses,High income
+Norway,2015,Dr,4.4,10.131,9.2821,17,16.276,OECD,less beds,more drs,more nurses,High income
+Norway,2015,Nurse,17.34,10.131,9.2821,17,16.276,OECD,less beds,more drs,more nurses,High income
+Norway,2016,Bed,3.68,10.591,9.2821,17,16.519,OECD,less beds,more drs,more nurses,High income
+Norway,2016,Dr,4.51,10.591,9.2821,17,16.519,OECD,less beds,more drs,more nurses,High income
+Norway,2016,Nurse,17.49,10.591,9.2821,17,16.519,OECD,less beds,more drs,more nurses,High income
+Norway,2017,Bed,3.6,10.316,9.2821,17,16.783,OECD,less beds,more drs,more nurses,High income
+Norway,2017,Dr,4.66,10.316,9.2821,17,16.783,OECD,less beds,more drs,more nurses,High income
+Norway,2017,Nurse,17.67,10.316,9.2821,17,16.783,OECD,less beds,more drs,more nurses,High income
+Poland,2008,Bed,6.62,6.373,6.3938,6,13.468,OECD,more beds,more drs,more nurses,High income
+Poland,2008,Dr,2.16,6.373,6.3938,6,13.468,OECD,more beds,more drs,more nurses,High income
+Poland,2008,Nurse,5.19,6.373,6.3938,6,13.468,OECD,more beds,more drs,more nurses,High income
+Poland,2009,Bed,6.65,6.587,6.3938,6,13.488,OECD,more beds,more drs,less nurses,High income
+Poland,2009,Dr,2.17,6.587,6.3938,6,13.488,OECD,more beds,more drs,less nurses,High income
+Poland,2009,Nurse,5.25,6.587,6.3938,6,13.488,OECD,more beds,more drs,less nurses,High income
+Poland,2010,Bed,6.61,6.419,6.3938,6,13.445,OECD,more beds,more drs,less nurses,High income
+Poland,2010,Dr,2.19,6.419,6.3938,6,13.445,OECD,more beds,more drs,less nurses,High income
+Poland,2010,Nurse,5.28,6.419,6.3938,6,13.445,OECD,more beds,more drs,less nurses,High income
+Poland,2011,Bed,6.63,6.234,6.3938,6,13.635,OECD,more beds,more drs,less nurses,High income
+Poland,2011,Dr,2.21,6.234,6.3938,6,13.635,OECD,more beds,more drs,less nurses,High income
+Poland,2011,Nurse,5.28,6.234,6.3938,6,13.635,OECD,more beds,more drs,less nurses,High income
+Poland,2012,Bed,6.63,6.201,6.3938,6,14.023,OECD,more beds,more drs,NA,High income
+Poland,2012,Dr,2.23,6.201,6.3938,6,14.023,OECD,more beds,more drs,NA,High income
+Poland,2012,Nurse,NA,6.201,6.3938,6,14.023,OECD,more beds,more drs,NA,High income
+Poland,2013,Bed,6.61,6.375,6.3938,6,14.473,OECD,more beds,more drs,less nurses,High income
+Poland,2013,Dr,2.24,6.375,6.3938,6,14.473,OECD,more beds,more drs,less nurses,High income
+Poland,2013,Nurse,5.27,6.375,6.3938,6,14.473,OECD,more beds,more drs,less nurses,High income
+Poland,2014,Bed,6.63,6.246,6.3938,6,14.999,OECD,more beds,more drs,less nurses,High income
+Poland,2014,Dr,2.31,6.246,6.3938,6,14.999,OECD,more beds,more drs,less nurses,High income
+Poland,2014,Nurse,5.24,6.246,6.3938,6,14.999,OECD,more beds,more drs,less nurses,High income
+Poland,2015,Bed,6.63,6.398,6.3938,6,15.521,OECD,more beds,more drs,less nurses,High income
+Poland,2015,Dr,2.33,6.398,6.3938,6,15.521,OECD,more beds,more drs,less nurses,High income
+Poland,2015,Nurse,5.2,6.398,6.3938,6,15.521,OECD,more beds,more drs,less nurses,High income
+Poland,2016,Bed,6.64,6.543,6.3938,6,16.1,OECD,more beds,more drs,less nurses,High income
+Poland,2016,Dr,2.42,6.543,6.3938,6,16.1,OECD,more beds,more drs,less nurses,High income
+Poland,2016,Nurse,5.16,6.543,6.3938,6,16.1,OECD,more beds,more drs,less nurses,High income
+Poland,2017,Bed,6.62,6.562,6.3938,6,16.663,OECD,more beds,less drs,less nurses,High income
+Poland,2017,Dr,2.38,6.562,6.3938,6,16.663,OECD,more beds,less drs,less nurses,High income
+Poland,2017,Nurse,5.1,6.562,6.3938,6,16.663,OECD,more beds,less drs,less nurses,High income
+Slovakia,2008,Bed,6.59,6.956,7.2512,11,12.064,OECD,more beds,more drs,more nurses,High income
+Slovakia,2008,Dr,3.37,6.956,7.2512,11,12.064,OECD,more beds,more drs,more nurses,High income
+Slovakia,2008,Nurse,6.28,6.956,7.2512,11,12.064,OECD,more beds,more drs,more nurses,High income
+Slovakia,2009,Bed,6.54,7.948,7.2512,11,12.198,OECD,more beds,more drs,more nurses,High income
+Slovakia,2009,Dr,3.3,7.948,7.2512,11,12.198,OECD,more beds,more drs,more nurses,High income
+Slovakia,2009,Nurse,6.07,7.948,7.2512,11,12.198,OECD,more beds,more drs,more nurses,High income
+Slovakia,2010,Bed,6.46,7.742,7.2512,11,12.354,OECD,more beds,more drs,more nurses,High income
+Slovakia,2010,Dr,3.36,7.742,7.2512,11,12.354,OECD,more beds,more drs,more nurses,High income
+Slovakia,2010,Nurse,6.07,7.742,7.2512,11,12.354,OECD,more beds,more drs,more nurses,High income
+Slovakia,2011,Bed,6.05,7.357,7.2512,11,12.681,OECD,more beds,more drs,less nurses,High income
+Slovakia,2011,Dr,3.31,7.357,7.2512,11,12.681,OECD,more beds,more drs,less nurses,High income
+Slovakia,2011,Nurse,5.94,7.357,7.2512,11,12.681,OECD,more beds,more drs,less nurses,High income
+Slovakia,2012,Bed,5.91,7.553,7.2512,11,12.953,OECD,more beds,more drs,less nurses,High income
+Slovakia,2012,Dr,3.36,7.553,7.2512,11,12.953,OECD,more beds,more drs,less nurses,High income
+Slovakia,2012,Nurse,5.82,7.553,7.2512,11,12.953,OECD,more beds,more drs,less nurses,High income
+Slovakia,2013,Bed,5.8,7.509,7.2512,11,13.338,OECD,more beds,more drs,less nurses,High income
+Slovakia,2013,Dr,3.39,7.509,7.2512,11,13.338,OECD,more beds,more drs,less nurses,High income
+Slovakia,2013,Nurse,5.75,7.509,7.2512,11,13.338,OECD,more beds,more drs,less nurses,High income
+Slovakia,2014,Bed,5.79,6.893,7.2512,11,13.749,OECD,more beds,more drs,less nurses,High income
+Slovakia,2014,Dr,3.43,6.893,7.2512,11,13.749,OECD,more beds,more drs,less nurses,High income
+Slovakia,2014,Nurse,5.75,6.893,7.2512,11,13.749,OECD,more beds,more drs,less nurses,High income
+Slovakia,2015,Bed,5.75,6.793,7.2512,11,14.204,OECD,more beds,more drs,less nurses,High income
+Slovakia,2015,Dr,3.45,6.793,7.2512,11,14.204,OECD,more beds,more drs,less nurses,High income
+Slovakia,2015,Nurse,5.7,6.793,7.2512,11,14.204,OECD,more beds,more drs,less nurses,High income
+Slovakia,2016,Bed,5.78,6.992,7.2512,11,14.718,OECD,more beds,more drs,less nurses,High income
+Slovakia,2016,Dr,3.47,6.992,7.2512,11,14.718,OECD,more beds,more drs,less nurses,High income
+Slovakia,2016,Nurse,5.74,6.992,7.2512,11,14.718,OECD,more beds,more drs,less nurses,High income
+Slovakia,2017,Bed,5.82,6.769,7.2512,11,15.255,OECD,more beds,more drs,less nurses,High income
+Slovakia,2017,Dr,3.42,6.769,7.2512,11,15.255,OECD,more beds,more drs,less nurses,High income
+Slovakia,2017,Nurse,5.65,6.769,7.2512,11,15.255,OECD,more beds,more drs,less nurses,High income
+Spain,2008,Bed,3.2,8.382,9.0112,16,16.47,OECD,less beds,more drs,less nurses,High income
+Spain,2008,Dr,3.54,8.382,9.0112,16,16.47,OECD,less beds,more drs,less nurses,High income
+Spain,2008,Nurse,4.82,8.382,9.0112,16,16.47,OECD,less beds,more drs,less nurses,High income
+Spain,2009,Bed,3.16,9.107,9.0112,16,16.66,OECD,less beds,more drs,less nurses,High income
+Spain,2009,Dr,3.6,9.107,9.0112,16,16.66,OECD,less beds,more drs,less nurses,High income
+Spain,2009,Nurse,4.95,9.107,9.0112,16,16.66,OECD,less beds,more drs,less nurses,High income
+Spain,2010,Bed,3.11,9.119,9.0112,16,16.95,OECD,less beds,more drs,less nurses,High income
+Spain,2010,Dr,3.76,9.119,9.0112,16,16.95,OECD,less beds,more drs,less nurses,High income
+Spain,2010,Nurse,5.15,9.119,9.0112,16,16.95,OECD,less beds,more drs,less nurses,High income
+Spain,2011,Bed,3.05,9.169,9.0112,16,17.22,OECD,less beds,more drs,less nurses,High income
+Spain,2011,Dr,3.84,9.169,9.0112,16,17.22,OECD,less beds,more drs,less nurses,High income
+Spain,2011,Nurse,5.22,9.169,9.0112,16,17.22,OECD,less beds,more drs,less nurses,High income
+Spain,2012,Bed,2.99,9.157,9.0112,16,17.49,OECD,less beds,more drs,less nurses,High income
+Spain,2012,Dr,3.82,9.157,9.0112,16,17.49,OECD,less beds,more drs,less nurses,High income
+Spain,2012,Nurse,5.24,9.157,9.0112,16,17.49,OECD,less beds,more drs,less nurses,High income
+Spain,2013,Bed,2.96,9.067,9.0112,16,17.91,OECD,less beds,more drs,less nurses,High income
+Spain,2013,Dr,3.81,9.067,9.0112,16,17.91,OECD,less beds,more drs,less nurses,High income
+Spain,2013,Nurse,5.14,9.067,9.0112,16,17.91,OECD,less beds,more drs,less nurses,High income
+Spain,2014,Bed,2.97,9.09,9.0112,16,18.31,OECD,less beds,more drs,less nurses,High income
+Spain,2014,Dr,3.8,9.09,9.0112,16,18.31,OECD,less beds,more drs,less nurses,High income
+Spain,2014,Nurse,5.15,9.09,9.0112,16,18.31,OECD,less beds,more drs,less nurses,High income
+Spain,2015,Bed,2.98,9.127,9.0112,16,18.59,OECD,less beds,more drs,less nurses,High income
+Spain,2015,Dr,3.85,9.127,9.0112,16,18.59,OECD,less beds,more drs,less nurses,High income
+Spain,2015,Nurse,5.29,9.127,9.0112,16,18.59,OECD,less beds,more drs,less nurses,High income
+Spain,2016,Bed,2.97,8.952,9.0112,16,18.84,OECD,less beds,more drs,less nurses,High income
+Spain,2016,Dr,3.82,8.952,9.0112,16,18.84,OECD,less beds,more drs,less nurses,High income
+Spain,2016,Nurse,5.51,8.952,9.0112,16,18.84,OECD,less beds,more drs,less nurses,High income
+Spain,2017,Bed,2.97,8.942,9.0112,16,19.08,OECD,less beds,more drs,less nurses,High income
+Spain,2017,Dr,3.88,8.942,9.0112,16,19.08,OECD,less beds,more drs,less nurses,High income
+Spain,2017,Nurse,5.74,8.942,9.0112,16,19.08,OECD,less beds,more drs,less nurses,High income
+Sweden,2008,Bed,2.81,8.243,10.098,22,17.644,OECD,less beds,more drs,more nurses,High income
+Sweden,2008,Dr,3.68,8.243,10.098,22,17.644,OECD,less beds,more drs,more nurses,High income
+Sweden,2008,Nurse,10.76,8.243,10.098,22,17.644,OECD,less beds,more drs,more nurses,High income
+Sweden,2009,Bed,2.76,8.802,10.098,22,17.938,OECD,less beds,more drs,more nurses,High income
+Sweden,2009,Dr,3.75,8.802,10.098,22,17.938,OECD,less beds,more drs,more nurses,High income
+Sweden,2009,Nurse,10.77,8.802,10.098,22,17.938,OECD,less beds,more drs,more nurses,High income
+Sweden,2010,Bed,2.73,8.336,10.098,22,18.277,OECD,less beds,more drs,more nurses,High income
+Sweden,2010,Dr,3.81,8.336,10.098,22,18.277,OECD,less beds,more drs,more nurses,High income
+Sweden,2010,Nurse,10.84,8.336,10.098,22,18.277,OECD,less beds,more drs,more nurses,High income
+Sweden,2011,Bed,2.7,10.446,10.098,22,18.636,OECD,less beds,more drs,more nurses,High income
+Sweden,2011,Dr,3.89,10.446,10.098,22,18.636,OECD,less beds,more drs,more nurses,High income
+Sweden,2011,Nurse,10.87,10.446,10.098,22,18.636,OECD,less beds,more drs,more nurses,High income
+Sweden,2012,Bed,2.66,10.766,10.098,22,18.977,OECD,less beds,more drs,more nurses,High income
+Sweden,2012,Dr,3.97,10.766,10.098,22,18.977,OECD,less beds,more drs,more nurses,High income
+Sweden,2012,Nurse,10.91,10.766,10.098,22,18.977,OECD,less beds,more drs,more nurses,High income
+Sweden,2013,Bed,2.59,10.945,10.098,22,19.273,OECD,less beds,more drs,more nurses,High income
+Sweden,2013,Dr,4.04,10.945,10.098,22,19.273,OECD,less beds,more drs,more nurses,High income
+Sweden,2013,Nurse,10.94,10.945,10.098,22,19.273,OECD,less beds,more drs,more nurses,High income
+Sweden,2014,Bed,2.54,10.98,10.098,22,19.519,OECD,less beds,more drs,more nurses,High income
+Sweden,2014,Dr,4.11,10.98,10.098,22,19.519,OECD,less beds,more drs,more nurses,High income
+Sweden,2014,Nurse,10.93,10.98,10.098,22,19.519,OECD,less beds,more drs,more nurses,High income
+Sweden,2015,Bed,2.44,10.828,10.098,22,19.696,OECD,less beds,more drs,more nurses,High income
+Sweden,2015,Dr,4.17,10.828,10.098,22,19.696,OECD,less beds,more drs,more nurses,High income
+Sweden,2015,Nurse,10.94,10.828,10.098,22,19.696,OECD,less beds,more drs,more nurses,High income
+Sweden,2016,Bed,2.34,10.839,10.098,22,19.773,OECD,less beds,more drs,more nurses,High income
+Sweden,2016,Dr,4.23,10.839,10.098,22,19.773,OECD,less beds,more drs,more nurses,High income
+Sweden,2016,Nurse,10.91,10.839,10.098,22,19.773,OECD,less beds,more drs,more nurses,High income
+Sweden,2017,Bed,2.21,10.795,10.098,22,19.801,OECD,less beds,more drs,more nurses,High income
+Sweden,2017,Dr,4.27,10.795,10.098,22,19.801,OECD,less beds,more drs,more nurses,High income
+Sweden,2017,Nurse,10.88,10.795,10.098,22,19.801,OECD,less beds,more drs,more nurses,High income
+Switzerland,2008,Bed,5.21,9.754,10.8166,29,16.475,OECD,more beds,more drs,more nurses,High income
+Switzerland,2008,Dr,3.82,9.754,10.8166,29,16.475,OECD,more beds,more drs,more nurses,High income
+Switzerland,2008,Nurse,13.59,9.754,10.8166,29,16.475,OECD,more beds,more drs,more nurses,High income
+Switzerland,2009,Bed,5.1,10.379,10.8166,29,16.681,OECD,more beds,more drs,more nurses,High income
+Switzerland,2009,Dr,3.83,10.379,10.8166,29,16.681,OECD,more beds,more drs,more nurses,High income
+Switzerland,2009,Nurse,13.86,10.379,10.8166,29,16.681,OECD,more beds,more drs,more nurses,High income
+Switzerland,2010,Bed,5.19,10.276,10.8166,29,16.922,OECD,more beds,more drs,more nurses,High income
+Switzerland,2010,Dr,3.81,10.276,10.8166,29,16.922,OECD,more beds,more drs,more nurses,High income
+Switzerland,2010,Nurse,14.64,10.276,10.8166,29,16.922,OECD,more beds,more drs,more nurses,High income
+Switzerland,2011,Bed,5.05,10.341,10.8166,29,17.029,OECD,more beds,more drs,more nurses,High income
+Switzerland,2011,Dr,3.83,10.341,10.8166,29,17.029,OECD,more beds,more drs,more nurses,High income
+Switzerland,2011,Nurse,15.17,10.341,10.8166,29,17.029,OECD,more beds,more drs,more nurses,High income
+Switzerland,2012,Bed,4.97,10.618,10.8166,29,17.28,OECD,more beds,more drs,more nurses,High income
+Switzerland,2012,Dr,3.92,10.618,10.8166,29,17.28,OECD,more beds,more drs,more nurses,High income
+Switzerland,2012,Nurse,15.57,10.618,10.8166,29,17.28,OECD,more beds,more drs,more nurses,High income
+Switzerland,2013,Bed,4.85,10.831,10.8166,29,17.501,OECD,more beds,more drs,more nurses,High income
+Switzerland,2013,Dr,4.04,10.831,10.8166,29,17.501,OECD,more beds,more drs,more nurses,High income
+Switzerland,2013,Nurse,15.91,10.831,10.8166,29,17.501,OECD,more beds,more drs,more nurses,High income
+Switzerland,2014,Bed,4.73,10.994,10.8166,29,17.697,OECD,more beds,more drs,more nurses,High income
+Switzerland,2014,Dr,4.13,10.994,10.8166,29,17.697,OECD,more beds,more drs,more nurses,High income
+Switzerland,2014,Nurse,16.16,10.994,10.8166,29,17.697,OECD,more beds,more drs,more nurses,High income
+Switzerland,2015,Bed,4.73,11.369,10.8166,29,17.873,OECD,more beds,more drs,more nurses,High income
+Switzerland,2015,Dr,4.2,11.369,10.8166,29,17.873,OECD,more beds,more drs,more nurses,High income
+Switzerland,2015,Nurse,16.58,11.369,10.8166,29,17.873,OECD,more beds,more drs,more nurses,High income
+Switzerland,2016,Bed,4.69,11.709,10.8166,29,18.022,OECD,less beds,more drs,more nurses,High income
+Switzerland,2016,Dr,4.25,11.709,10.8166,29,18.022,OECD,less beds,more drs,more nurses,High income
+Switzerland,2016,Nurse,17.02,11.709,10.8166,29,18.022,OECD,less beds,more drs,more nurses,High income
+Switzerland,2017,Bed,4.65,11.895,10.8166,29,18.182,OECD,less beds,more drs,more nurses,High income
+Switzerland,2017,Dr,4.3,11.895,10.8166,29,18.182,OECD,less beds,more drs,more nurses,High income
+Switzerland,2017,Nurse,17.23,11.895,10.8166,29,18.182,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2008,Bed,3.33,9.166,9.8729,21,16.003,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2008,Dr,2.57,9.166,9.8729,21,16.003,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2008,Nurse,8.67,9.166,9.8729,21,16.003,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2009,Bed,3.26,10.016,9.8729,21,16.177,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2009,Dr,2.64,10.016,9.8729,21,16.177,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2009,Nurse,8.51,10.016,9.8729,21,16.177,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2010,Bed,2.93,9.989,9.8729,21,16.352,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2010,Dr,2.65,9.989,9.8729,21,16.352,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2010,Nurse,8.41,9.989,9.8729,21,16.352,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2011,Bed,2.88,9.973,9.8729,21,16.525,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2011,Dr,2.69,9.973,9.8729,21,16.525,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2011,Nurse,8.2,9.973,9.8729,21,16.525,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2012,Bed,2.81,10.052,9.8729,21,17.017,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2012,Dr,2.7,10.052,9.8729,21,17.017,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2012,Nurse,7.94,10.052,9.8729,21,17.017,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2013,Bed,2.76,9.979,9.8729,21,17.365,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2013,Dr,2.71,9.979,9.8729,21,17.365,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2013,Nurse,7.94,9.979,9.8729,21,17.365,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2014,Bed,2.73,9.958,9.8729,21,17.659,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2014,Dr,2.75,9.958,9.8729,21,17.659,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2014,Nurse,7.94,9.958,9.8729,21,17.659,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2015,Bed,2.61,9.904,9.8729,21,17.833,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2015,Dr,2.77,9.904,9.8729,21,17.833,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2015,Nurse,7.91,9.904,9.8729,21,17.833,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2016,Bed,2.57,9.867,9.8729,21,17.996,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2016,Dr,2.78,9.867,9.8729,21,17.996,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2016,Nurse,7.88,9.867,9.8729,21,17.996,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2017,Bed,2.54,9.825,9.8729,21,18.155,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2017,Dr,2.81,9.825,9.8729,21,18.155,OECD,less beds,more drs,more nurses,High income
+United Kingdom,2017,Nurse,7.83,9.825,9.8729,21,18.155,OECD,less beds,more drs,more nurses,High income
+United States,2008,Bed,3.13,15.286,16.387999999999998,32,12.752,OECD,less beds,more drs,more nurses,High income
+United States,2008,Dr,2.44,15.286,16.387999999999998,32,12.752,OECD,less beds,more drs,more nurses,High income
+United States,2008,Nurse,10.76,15.286,16.387999999999998,32,12.752,OECD,less beds,more drs,more nurses,High income
+United States,2009,Bed,3.08,16.284,16.387999999999998,32,12.916,OECD,less beds,more drs,more nurses,High income
+United States,2009,Dr,2.44,16.284,16.387999999999998,32,12.916,OECD,less beds,more drs,more nurses,High income
+United States,2009,Nurse,10.8,16.284,16.387999999999998,32,12.916,OECD,less beds,more drs,more nurses,High income
+United States,2010,Bed,3.05,16.345,16.387999999999998,32,13.086,OECD,less beds,more drs,more nurses,High income
+United States,2010,Dr,2.43,16.345,16.387999999999998,32,13.086,OECD,less beds,more drs,more nurses,High income
+United States,2010,Nurse,10.94,16.345,16.387999999999998,32,13.086,OECD,less beds,more drs,more nurses,High income
+United States,2011,Bed,2.97,16.3,16.387999999999998,32,13.272,OECD,less beds,more drs,more nurses,High income
+United States,2011,Dr,2.46,16.3,16.387999999999998,32,13.272,OECD,less beds,more drs,more nurses,High income
+United States,2011,Nurse,11.09,16.3,16.387999999999998,32,13.272,OECD,less beds,more drs,more nurses,High income
+United States,2012,Bed,2.93,16.285,16.387999999999998,32,13.743,OECD,less beds,more drs,more nurses,High income
+United States,2012,Dr,2.5,16.285,16.387999999999998,32,13.743,OECD,less beds,more drs,more nurses,High income
+United States,2012,Nurse,11.15,16.285,16.387999999999998,32,13.743,OECD,less beds,more drs,more nurses,High income
+United States,2013,Bed,2.89,16.21,16.387999999999998,32,14.124,OECD,less beds,more drs,more nurses,High income
+United States,2013,Dr,2.56,16.21,16.387999999999998,32,14.124,OECD,less beds,more drs,more nurses,High income
+United States,2013,Nurse,11.14,16.21,16.387999999999998,32,14.124,OECD,less beds,more drs,more nurses,High income
+United States,2014,Bed,2.83,16.406,16.387999999999998,32,14.501,OECD,less beds,more drs,more nurses,High income
+United States,2014,Dr,2.58,16.406,16.387999999999998,32,14.501,OECD,less beds,more drs,more nurses,High income
+United States,2014,Nurse,11.18,16.406,16.387999999999998,32,14.501,OECD,less beds,more drs,more nurses,High income
+United States,2015,Bed,2.8,16.711,16.387999999999998,32,14.862,OECD,less beds,more drs,more nurses,High income
+United States,2015,Dr,2.58,16.711,16.387999999999998,32,14.862,OECD,less beds,more drs,more nurses,High income
+United States,2015,Nurse,11.31,16.711,16.387999999999998,32,14.862,OECD,less beds,more drs,more nurses,High income
+United States,2016,Bed,2.77,17.049,16.387999999999998,32,15.236,OECD,less beds,more drs,more nurses,High income
+United States,2016,Dr,2.59,17.049,16.387999999999998,32,15.236,OECD,less beds,more drs,more nurses,High income
+United States,2016,Nurse,11.63,17.049,16.387999999999998,32,15.236,OECD,less beds,more drs,more nurses,High income
+United States,2017,Bed,2.87,17.004,16.387999999999998,32,15.622,OECD,less beds,more drs,more nurses,High income
+United States,2017,Dr,2.61,17.004,16.387999999999998,32,15.622,OECD,less beds,more drs,more nurses,High income
+United States,2017,Nurse,11.77,17.004,16.387999999999998,32,15.622,OECD,less beds,more drs,more nurses,High income
+Estonia,2008,Bed,5.63,5.71,6.1573,4,17.443,OECD,more beds,more drs,more nurses,High income
+Estonia,2008,Dr,3.34,5.71,6.1573,4,17.443,OECD,more beds,more drs,more nurses,High income
+Estonia,2008,Nurse,6.41,5.71,6.1573,4,17.443,OECD,more beds,more drs,more nurses,High income
+Estonia,2009,Bed,5.37,6.513,6.1573,4,17.432,OECD,more beds,more drs,more nurses,High income
+Estonia,2009,Dr,3.28,6.513,6.1573,4,17.432,OECD,more beds,more drs,more nurses,High income
+Estonia,2009,Nurse,6.16,6.513,6.1573,4,17.432,OECD,more beds,more drs,more nurses,High income
+Estonia,2010,Bed,5.27,6.272,6.1573,4,17.442,OECD,more beds,more drs,more nurses,High income
+Estonia,2010,Dr,3.24,6.272,6.1573,4,17.442,OECD,more beds,more drs,more nurses,High income
+Estonia,2010,Nurse,6.12,6.272,6.1573,4,17.442,OECD,more beds,more drs,more nurses,High income
+Estonia,2011,Bed,5.36,5.768,6.1573,4,17.577,OECD,more beds,more drs,more nurses,High income
+Estonia,2011,Dr,3.29,5.768,6.1573,4,17.577,OECD,more beds,more drs,more nurses,High income
+Estonia,2011,Nurse,6.24,5.768,6.1573,4,17.577,OECD,more beds,more drs,more nurses,High income
+Estonia,2012,Bed,5.53,5.79,6.1573,4,17.868,OECD,more beds,more drs,less nurses,High income
+Estonia,2012,Dr,3.28,5.79,6.1573,4,17.868,OECD,more beds,more drs,less nurses,High income
+Estonia,2012,Nurse,6.17,5.79,6.1573,4,17.868,OECD,more beds,more drs,less nurses,High income
+Estonia,2013,Bed,5.01,5.978,6.1573,4,18.203,OECD,more beds,more drs,less nurses,High income
+Estonia,2013,Dr,3.33,5.978,6.1573,4,18.203,OECD,more beds,more drs,less nurses,High income
+Estonia,2013,Nurse,5.64,5.978,6.1573,4,18.203,OECD,more beds,more drs,less nurses,High income
+Estonia,2014,Bed,5.01,6.081,6.1573,4,18.567,OECD,more beds,more drs,less nurses,High income
+Estonia,2014,Dr,3.36,6.081,6.1573,4,18.567,OECD,more beds,more drs,less nurses,High income
+Estonia,2014,Nurse,5.74,6.081,6.1573,4,18.567,OECD,more beds,more drs,less nurses,High income
+Estonia,2015,Bed,4.96,6.346,6.1573,4,18.891,OECD,more beds,more drs,less nurses,High income
+Estonia,2015,Dr,3.41,6.346,6.1573,4,18.891,OECD,more beds,more drs,less nurses,High income
+Estonia,2015,Nurse,6.01,6.346,6.1573,4,18.891,OECD,more beds,more drs,less nurses,High income
+Estonia,2016,Bed,4.76,6.5,6.1573,4,19.182,OECD,less beds,more drs,less nurses,High income
+Estonia,2016,Dr,3.46,6.5,6.1573,4,19.182,OECD,less beds,more drs,less nurses,High income
+Estonia,2016,Nurse,6.1,6.5,6.1573,4,19.182,OECD,less beds,more drs,less nurses,High income
+Estonia,2017,Bed,4.69,6.615,6.1573,4,19.465,OECD,less beds,more drs,less nurses,High income
+Estonia,2017,Dr,3.47,6.615,6.1573,4,19.465,OECD,less beds,more drs,less nurses,High income
+Estonia,2017,Nurse,6.19,6.615,6.1573,4,19.465,OECD,less beds,more drs,less nurses,High income
+Israel,2008,Bed,3.3,6.968,7.1135,8,9.738,OECD,less beds,more drs,less nurses,High income
+Israel,2008,Dr,3.42,6.968,7.1135,8,9.738,OECD,less beds,more drs,less nurses,High income
+Israel,2008,Nurse,4.88,6.968,7.1135,8,9.738,OECD,less beds,more drs,less nurses,High income
+Israel,2009,Bed,3.19,7.066,7.1135,8,9.807,OECD,less beds,more drs,less nurses,High income
+Israel,2009,Dr,3.46,7.066,7.1135,8,9.807,OECD,less beds,more drs,less nurses,High income
+Israel,2009,Nurse,4.73,7.066,7.1135,8,9.807,OECD,less beds,more drs,less nurses,High income
+Israel,2010,Bed,3.16,7.017,7.1135,8,9.87,OECD,less beds,more drs,less nurses,High income
+Israel,2010,Dr,3.32,7.017,7.1135,8,9.87,OECD,less beds,more drs,less nurses,High income
+Israel,2010,Nurse,4.71,7.017,7.1135,8,9.87,OECD,less beds,more drs,less nurses,High income
+Israel,2011,Bed,3.14,6.978,7.1135,8,10.095,OECD,less beds,more drs,less nurses,High income
+Israel,2011,Dr,3.26,6.978,7.1135,8,10.095,OECD,less beds,more drs,less nurses,High income
+Israel,2011,Nurse,4.8,6.978,7.1135,8,10.095,OECD,less beds,more drs,less nurses,High income
+Israel,2012,Bed,3.1,7.115,7.1135,8,10.292,OECD,less beds,more drs,less nurses,High income
+Israel,2012,Dr,2.97,7.115,7.1135,8,10.292,OECD,less beds,more drs,less nurses,High income
+Israel,2012,Nurse,4.82,7.115,7.1135,8,10.292,OECD,less beds,more drs,less nurses,High income
+Israel,2013,Bed,3.09,7.079,7.1135,8,10.562,OECD,less beds,more drs,less nurses,High income
+Israel,2013,Dr,2.94,7.079,7.1135,8,10.562,OECD,less beds,more drs,less nurses,High income
+Israel,2013,Nurse,4.86,7.079,7.1135,8,10.562,OECD,less beds,more drs,less nurses,High income
+Israel,2014,Bed,3.08,7.154,7.1135,8,10.746,OECD,less beds,more drs,less nurses,High income
+Israel,2014,Dr,2.98,7.154,7.1135,8,10.746,OECD,less beds,more drs,less nurses,High income
+Israel,2014,Nurse,4.86,7.154,7.1135,8,10.746,OECD,less beds,more drs,less nurses,High income
+Israel,2015,Bed,3.03,7.107,7.1135,8,10.972,OECD,less beds,more drs,less nurses,High income
+Israel,2015,Dr,3.07,7.107,7.1135,8,10.972,OECD,less beds,more drs,less nurses,High income
+Israel,2015,Nurse,4.88,7.107,7.1135,8,10.972,OECD,less beds,more drs,less nurses,High income
+Israel,2016,Bed,2.99,7.153,7.1135,8,11.218,OECD,less beds,more drs,less nurses,High income
+Israel,2016,Dr,3.08,7.153,7.1135,8,11.218,OECD,less beds,more drs,less nurses,High income
+Israel,2016,Nurse,4.99,7.153,7.1135,8,11.218,OECD,less beds,more drs,less nurses,High income
+Israel,2017,Bed,3.02,7.498,7.1135,8,11.456,OECD,less beds,more drs,less nurses,High income
+Israel,2017,Dr,3.14,7.498,7.1135,8,11.456,OECD,less beds,more drs,less nurses,High income
+Israel,2017,Nurse,5.08,7.498,7.1135,8,11.456,OECD,less beds,more drs,less nurses,High income
+Slovenia,2008,Bed,4.74,7.855,8.4654,13,16.32,OECD,more beds,more drs,more nurses,High income
+Slovenia,2008,Dr,2.4,7.855,8.4654,13,16.32,OECD,more beds,more drs,more nurses,High income
+Slovenia,2008,Nurse,7.88,7.855,8.4654,13,16.32,OECD,more beds,more drs,more nurses,High income
+Slovenia,2009,Bed,4.6,8.541,8.4654,13,16.49,OECD,more beds,more drs,more nurses,High income
+Slovenia,2009,Dr,2.41,8.541,8.4654,13,16.49,OECD,more beds,more drs,more nurses,High income
+Slovenia,2009,Nurse,8.03,8.541,8.4654,13,16.49,OECD,more beds,more drs,more nurses,High income
+Slovenia,2010,Bed,4.57,8.565,8.4654,13,16.55,OECD,more beds,more drs,more nurses,High income
+Slovenia,2010,Dr,2.43,8.565,8.4654,13,16.55,OECD,more beds,more drs,more nurses,High income
+Slovenia,2010,Nurse,8.19,8.565,8.4654,13,16.55,OECD,more beds,more drs,more nurses,High income
+Slovenia,2011,Bed,4.62,8.536,8.4654,13,16.62,OECD,more beds,more drs,more nurses,High income
+Slovenia,2011,Dr,2.49,8.536,8.4654,13,16.62,OECD,more beds,more drs,more nurses,High income
+Slovenia,2011,Nurse,8.33,8.536,8.4654,13,16.62,OECD,more beds,more drs,more nurses,High income
+Slovenia,2012,Bed,4.54,8.715,8.4654,13,16.95,OECD,more beds,more drs,more nurses,High income
+Slovenia,2012,Dr,2.54,8.715,8.4654,13,16.95,OECD,more beds,more drs,more nurses,High income
+Slovenia,2012,Nurse,8.16,8.715,8.4654,13,16.95,OECD,more beds,more drs,more nurses,High income
+Slovenia,2013,Bed,4.55,8.74,8.4654,13,17.28,OECD,more beds,more drs,more nurses,High income
+Slovenia,2013,Dr,2.63,8.74,8.4654,13,17.28,OECD,more beds,more drs,more nurses,High income
+Slovenia,2013,Nurse,8.32,8.74,8.4654,13,17.28,OECD,more beds,more drs,more nurses,High income
+Slovenia,2014,Bed,4.54,8.502,8.4654,13,17.67,OECD,more beds,more drs,more nurses,High income
+Slovenia,2014,Dr,2.77,8.502,8.4654,13,17.67,OECD,more beds,more drs,more nurses,High income
+Slovenia,2014,Nurse,8.56,8.502,8.4654,13,17.67,OECD,more beds,more drs,more nurses,High income
+Slovenia,2015,Bed,4.51,8.517,8.4654,13,18.15,OECD,less beds,more drs,more nurses,High income
+Slovenia,2015,Dr,2.83,8.517,8.4654,13,18.15,OECD,less beds,more drs,more nurses,High income
+Slovenia,2015,Nurse,8.78,8.517,8.4654,13,18.15,OECD,less beds,more drs,more nurses,High income
+Slovenia,2016,Bed,4.49,8.494,8.4654,13,18.67,OECD,less beds,more drs,more nurses,High income
+Slovenia,2016,Dr,3.01,8.494,8.4654,13,18.67,OECD,less beds,more drs,more nurses,High income
+Slovenia,2016,Nurse,9.65,8.494,8.4654,13,18.67,OECD,less beds,more drs,more nurses,High income
+Slovenia,2017,Bed,4.5,8.189,8.4654,13,19.14,OECD,less beds,more drs,more nurses,High income
+Slovenia,2017,Dr,3.1,8.189,8.4654,13,19.14,OECD,less beds,more drs,more nurses,High income
+Slovenia,2017,Nurse,9.92,8.189,8.4654,13,19.14,OECD,less beds,more drs,more nurses,High income
+Latvia,2008,Bed,7.77,5.616,5.7619,2,17.709,OECD,more beds,more drs,more nurses,High income
+Latvia,2008,Dr,3.23,5.616,5.7619,2,17.709,OECD,more beds,more drs,more nurses,High income
+Latvia,2008,Nurse,5.55,5.616,5.7619,2,17.709,OECD,more beds,more drs,more nurses,High income
+Latvia,2009,Bed,6.74,6.135,5.7619,2,17.968,OECD,more beds,more drs,less nurses,High income
+Latvia,2009,Dr,3.15,6.135,5.7619,2,17.968,OECD,more beds,more drs,less nurses,High income
+Latvia,2009,Nurse,4.9,6.135,5.7619,2,17.968,OECD,more beds,more drs,less nurses,High income
+Latvia,2010,Bed,5.68,6.138,5.7619,2,18.243,OECD,more beds,more drs,less nurses,High income
+Latvia,2010,Dr,3.11,6.138,5.7619,2,18.243,OECD,more beds,more drs,less nurses,High income
+Latvia,2010,Nurse,5.01,6.138,5.7619,2,18.243,OECD,more beds,more drs,less nurses,High income
+Latvia,2011,Bed,5.88,5.568,5.7619,2,18.466,OECD,more beds,more drs,less nurses,High income
+Latvia,2011,Dr,3.13,5.568,5.7619,2,18.466,OECD,more beds,more drs,less nurses,High income
+Latvia,2011,Nurse,4.96,5.568,5.7619,2,18.466,OECD,more beds,more drs,less nurses,High income
+Latvia,2012,Bed,5.89,5.41,5.7619,2,18.663,OECD,more beds,more drs,less nurses,High income
+Latvia,2012,Dr,3.14,5.41,5.7619,2,18.663,OECD,more beds,more drs,less nurses,High income
+Latvia,2012,Nurse,4.86,5.41,5.7619,2,18.663,OECD,more beds,more drs,less nurses,High income
+Latvia,2013,Bed,5.8,5.396,5.7619,2,18.915,OECD,more beds,more drs,less nurses,High income
+Latvia,2013,Dr,3.19,5.396,5.7619,2,18.915,OECD,more beds,more drs,less nurses,High income
+Latvia,2013,Nurse,4.88,5.396,5.7619,2,18.915,OECD,more beds,more drs,less nurses,High income
+Latvia,2014,Bed,5.66,5.457,5.7619,2,19.227,OECD,more beds,more drs,less nurses,High income
+Latvia,2014,Dr,3.22,5.457,5.7619,2,19.227,OECD,more beds,more drs,less nurses,High income
+Latvia,2014,Nurse,4.82,5.457,5.7619,2,19.227,OECD,more beds,more drs,less nurses,High income
+Latvia,2015,Bed,5.69,5.686,5.7619,2,19.511,OECD,more beds,more drs,less nurses,High income
+Latvia,2015,Dr,3.2,5.686,5.7619,2,19.511,OECD,more beds,more drs,less nurses,High income
+Latvia,2015,Nurse,4.68,5.686,5.7619,2,19.511,OECD,more beds,more drs,less nurses,High income
+Latvia,2016,Bed,5.72,6.206,5.7619,2,19.762,OECD,more beds,more drs,less nurses,High income
+Latvia,2016,Dr,3.21,6.206,5.7619,2,19.762,OECD,more beds,more drs,less nurses,High income
+Latvia,2016,Nurse,4.64,6.206,5.7619,2,19.762,OECD,more beds,more drs,less nurses,High income
+Latvia,2017,Bed,5.57,6.007,5.7619,2,19.996,OECD,more beds,more drs,less nurses,High income
+Latvia,2017,Dr,3.21,6.007,5.7619,2,19.996,OECD,more beds,more drs,less nurses,High income
+Latvia,2017,Nurse,4.57,6.007,5.7619,2,19.996,OECD,more beds,more drs,less nurses,High income
+Lithuania,2008,Bed,7.18,6.287,6.5205,7,17.098,OECD,more beds,more drs,more nurses,High income
+Lithuania,2008,Dr,3.88,6.287,6.5205,7,17.098,OECD,more beds,more drs,more nurses,High income
+Lithuania,2008,Nurse,7.47,6.287,6.5205,7,17.098,OECD,more beds,more drs,more nurses,High income
+Lithuania,2009,Bed,7.18,7.356,6.5205,7,17.273,OECD,more beds,more drs,more nurses,High income
+Lithuania,2009,Dr,3.85,7.356,6.5205,7,17.273,OECD,more beds,more drs,more nurses,High income
+Lithuania,2009,Nurse,7.36,7.356,6.5205,7,17.273,OECD,more beds,more drs,more nurses,High income
+Lithuania,2010,Bed,7.16,6.834,6.5205,7,17.599,OECD,more beds,more drs,more nurses,High income
+Lithuania,2010,Dr,3.95,6.834,6.5205,7,17.599,OECD,more beds,more drs,more nurses,High income
+Lithuania,2010,Nurse,7.37,6.834,6.5205,7,17.599,OECD,more beds,more drs,more nurses,High income
+Lithuania,2011,Bed,7.43,6.505,6.5205,7,17.976,OECD,more beds,more drs,more nurses,High income
+Lithuania,2011,Dr,4.1,6.505,6.5205,7,17.976,OECD,more beds,more drs,more nurses,High income
+Lithuania,2011,Nurse,7.54,6.505,6.5205,7,17.976,OECD,more beds,more drs,more nurses,High income
+Lithuania,2012,Bed,7.45,6.291,6.5205,7,18.166,OECD,more beds,more drs,more nurses,High income
+Lithuania,2012,Dr,4.22,6.291,6.5205,7,18.166,OECD,more beds,more drs,more nurses,High income
+Lithuania,2012,Nurse,7.59,6.291,6.5205,7,18.166,OECD,more beds,more drs,more nurses,High income
+Lithuania,2013,Bed,7.31,6.136,6.5205,7,18.341,OECD,more beds,more drs,more nurses,High income
+Lithuania,2013,Dr,4.28,6.136,6.5205,7,18.341,OECD,more beds,more drs,more nurses,High income
+Lithuania,2013,Nurse,7.55,6.136,6.5205,7,18.341,OECD,more beds,more drs,more nurses,High income
+Lithuania,2014,Bed,7.26,6.199,6.5205,7,18.583,OECD,more beds,more drs,more nurses,High income
+Lithuania,2014,Dr,4.31,6.199,6.5205,7,18.583,OECD,more beds,more drs,more nurses,High income
+Lithuania,2014,Nurse,7.6,6.199,6.5205,7,18.583,OECD,more beds,more drs,more nurses,High income
+Lithuania,2015,Bed,6.97,6.495,6.5205,7,18.858,OECD,more beds,more drs,more nurses,High income
+Lithuania,2015,Dr,4.34,6.495,6.5205,7,18.858,OECD,more beds,more drs,more nurses,High income
+Lithuania,2015,Nurse,7.66,6.495,6.5205,7,18.858,OECD,more beds,more drs,more nurses,High income
+Lithuania,2016,Bed,6.69,6.637,6.5205,7,19.153,OECD,more beds,more drs,more nurses,High income
+Lithuania,2016,Dr,4.47,6.637,6.5205,7,19.153,OECD,more beds,more drs,more nurses,High income
+Lithuania,2016,Nurse,7.7,6.637,6.5205,7,19.153,OECD,more beds,more drs,more nurses,High income
+Lithuania,2017,Bed,6.56,6.465,6.5205,7,19.481,OECD,more beds,more drs,more nurses,High income
+Lithuania,2017,Dr,4.56,6.465,6.5205,7,19.481,OECD,more beds,more drs,more nurses,High income
+Lithuania,2017,Nurse,7.71,6.465,6.5205,7,19.481,OECD,more beds,more drs,more nurses,High income
+Singapore,2008,Bed,4.351989380492937,1,1.57,1,8.7,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2008,Dr,1.6,1,1.57,1,8.7,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2008,Nurse,5,1,1.57,1,8.7,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2009,Bed,4.165753563907736,1.3,1.57,1,8.9,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2009,Dr,1.7,1.3,1.57,1,8.9,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2009,Nurse,5.4,1.3,1.57,1,8.9,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2010,Bed,4.0921994700527815,1.2,1.57,1,9,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2010,Dr,1.8,1.2,1.57,1,9,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2010,Nurse,5.8,1.2,1.57,1,9,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2011,Bed,4.039016237088343,1.2,1.57,1,9.3,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2011,Dr,1.9,1.2,1.57,1,9.3,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2011,Nurse,6.1,1.2,1.57,1,9.3,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2012,Bed,4.037130228556122,1.3,1.57,1,9.899999999999999,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2012,Dr,1.9,1.3,1.57,1,9.899999999999999,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2012,Nurse,6.5,1.3,1.57,1,9.899999999999999,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2013,Bed,4.22065498312516,1.6,1.57,1,10.5,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2013,Dr,2,1.6,1.57,1,10.5,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2013,Nurse,6.7,1.6,1.57,1,10.5,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2014,Bed,4.275535657740683,1.8,1.57,1,11.100000000000001,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2014,Dr,2.1,1.8,1.57,1,11.100000000000001,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2014,Nurse,6.9,1.8,1.57,1,11.100000000000001,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2015,Bed,4.622220552043161,2.1,1.57,1,11.8,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2015,Dr,2.3,2.1,1.57,1,11.8,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2015,Nurse,7,2.1,1.57,1,11.8,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2016,Bed,4.837637051670122,2.1,1.57,1,12.4,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2016,Dr,2.3,2.1,1.57,1,12.4,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2016,Nurse,7.2,2.1,1.57,1,12.4,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2017,Bed,5.176174345668309,2.1,1.57,1,13.1,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2017,Dr,2.4,2.1,1.57,1,13.1,Singapore,Singapore,Singapore,Singapore,Singapore
+Singapore,2017,Nurse,7.4,2.1,1.57,1,13.1,Singapore,Singapore,Singapore,Singapore,Singapore
+Mexico,2008,Bed,1.03,5.699,5.763,5,5.901,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2008,Dr,1.96,5.699,5.763,5,5.901,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2008,Nurse,2.32,5.699,5.763,5,5.901,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2009,Bed,1.02,6.13,5.763,5,6.008,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2009,Dr,1.99,6.13,5.763,5,6.008,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2009,Nurse,2.37,6.13,5.763,5,6.008,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2010,Bed,1.05,5.975,5.763,5,6.117,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2010,Dr,2,5.975,5.763,5,6.117,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2010,Nurse,2.42,5.975,5.763,5,6.117,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2011,Bed,1.04,5.701,5.763,5,6.232,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2011,Dr,2.11,5.701,5.763,5,6.232,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2011,Nurse,2.52,5.701,5.763,5,6.232,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2012,Bed,1.03,5.842,5.763,5,6.355,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2012,Dr,2.12,5.842,5.763,5,6.355,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2012,Nurse,2.56,5.842,5.763,5,6.355,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2013,Bed,1.03,5.941,5.763,5,6.487,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2013,Dr,2.16,5.941,5.763,5,6.487,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2013,Nurse,2.62,5.941,5.763,5,6.487,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2014,Bed,1.03,5.607,5.763,5,6.625,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2014,Dr,2.23,5.607,5.763,5,6.625,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2014,Nurse,2.69,5.607,5.763,5,6.625,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2015,Bed,1,5.752,5.763,5,6.764,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2015,Dr,2.33,5.752,5.763,5,6.764,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2015,Nurse,2.77,5.752,5.763,5,6.764,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2016,Bed,1,5.464,5.763,5,6.91,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2016,Dr,2.34,5.464,5.763,5,6.91,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2016,Nurse,2.87,5.464,5.763,5,6.91,OECD,less beds,more drs,less nurses,Upper middle income
+Mexico,2017,Bed,0.99,5.519,5.763,5,7.071,OECD,less beds,less drs,less nurses,Upper middle income
+Mexico,2017,Dr,2.4,5.519,5.763,5,7.071,OECD,less beds,less drs,less nurses,Upper middle income
+Mexico,2017,Nurse,2.87,5.519,5.763,5,7.071,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2008,Bed,2.58,5.259,4.6428,3,6.962,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2008,Dr,1.59,5.259,4.6428,3,6.962,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2008,Nurse,1.41,5.259,4.6428,3,6.962,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2009,Bed,2.62,5.534,4.6428,3,6.925,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2009,Dr,1.65,5.534,4.6428,3,6.925,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2009,Nurse,1.46,5.534,4.6428,3,6.925,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2010,Bed,2.74,5.054,4.6428,3,7.117,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2010,Dr,1.69,5.054,4.6428,3,7.117,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2010,Nurse,1.57,5.054,4.6428,3,7.117,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2011,Bed,2.62,4.688,4.6428,3,7.288,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2011,Dr,1.7,4.688,4.6428,3,7.288,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2011,Nurse,1.68,4.688,4.6428,3,7.288,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2012,Bed,2.66,4.478,4.6428,3,7.431,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2012,Dr,1.73,4.478,4.6428,3,7.431,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2012,Nurse,1.79,4.478,4.6428,3,7.431,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2013,Bed,2.65,4.404,4.6428,3,7.6,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2013,Dr,1.76,4.404,4.6428,3,7.6,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2013,Nurse,1.83,4.404,4.6428,3,7.6,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2014,Bed,2.68,4.347,4.6428,3,7.829,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2014,Dr,1.76,4.347,4.6428,3,7.829,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2014,Nurse,1.85,4.347,4.6428,3,7.829,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2015,Bed,2.68,4.139,4.6428,3,8.111,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2015,Dr,1.81,4.139,4.6428,3,8.111,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2015,Nurse,1.95,4.139,4.6428,3,8.111,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2016,Bed,2.75,4.314,4.6428,3,8.292,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2016,Dr,1.83,4.314,4.6428,3,8.292,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2016,Nurse,1.93,4.314,4.6428,3,8.292,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2017,Bed,2.81,4.211,4.6428,3,8.434,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2017,Dr,1.87,4.211,4.6428,3,8.434,OECD,less beds,less drs,less nurses,Upper middle income
+Turkey,2017,Nurse,2.07,4.211,4.6428,3,8.434,OECD,less beds,less drs,less nurses,Upper middle income
+Brazil,2008,Bed,2.44,8.011,8.3745,8,6.917,Non-OECD,less beds,more drs,less nurses,Upper middle income
+Brazil,2008,Dr,1.79,8.011,8.3745,8,6.917,Non-OECD,less beds,more drs,less nurses,Upper middle income
+Brazil,2008,Nurse,0.93,8.011,8.3745,8,6.917,Non-OECD,less beds,more drs,less nurses,Upper middle income
+Brazil,2009,Bed,2.43,8.395,8.3745,8,7.111,Non-OECD,less beds,more drs,NA,Upper middle income
+Brazil,2009,Dr,1.83,8.395,8.3745,8,7.111,Non-OECD,less beds,more drs,NA,Upper middle income
+Brazil,2009,Nurse,NA,8.395,8.3745,8,7.111,Non-OECD,less beds,more drs,NA,Upper middle income
+Brazil,2010,Bed,2.37,7.945,8.3745,8,7.323,Non-OECD,less beds,more drs,less nurses,Upper middle income
+Brazil,2010,Dr,1.82,7.945,8.3745,8,7.323,Non-OECD,less beds,more drs,less nurses,Upper middle income
+Brazil,2010,Nurse,1.47,7.945,8.3745,8,7.323,Non-OECD,less beds,more drs,less nurses,Upper middle income
+Brazil,2011,Bed,2.34,7.788,8.3745,8,7.508,Non-OECD,less beds,NA,NA,Upper middle income
+Brazil,2011,Dr,NA,7.788,8.3745,8,7.508,Non-OECD,less beds,NA,NA,Upper middle income
+Brazil,2011,Nurse,NA,7.788,8.3745,8,7.508,Non-OECD,less beds,NA,NA,Upper middle income
+Brazil,2012,Bed,2.3,7.736,8.3745,8,7.712,Non-OECD,less beds,NA,NA,Upper middle income
+Brazil,2012,Dr,NA,7.736,8.3745,8,7.712,Non-OECD,less beds,NA,NA,Upper middle income
+Brazil,2012,Nurse,NA,7.736,8.3745,8,7.712,Non-OECD,less beds,NA,NA,Upper middle income
+Brazil,2013,Bed,NA,7.977,8.3745,8,7.934,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2013,Dr,NA,7.977,8.3745,8,7.934,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2013,Nurse,NA,7.977,8.3745,8,7.934,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2014,Bed,NA,8.396,8.3745,8,8.167,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2014,Dr,NA,8.396,8.3745,8,8.167,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2014,Nurse,NA,8.396,8.3745,8,8.167,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2015,Bed,NA,8.87,8.3745,8,8.41,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2015,Dr,NA,8.87,8.3745,8,8.41,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2015,Nurse,NA,8.87,8.3745,8,8.41,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2016,Bed,NA,9.204,8.3745,8,8.668,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2016,Dr,NA,9.204,8.3745,8,8.668,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2016,Nurse,NA,9.204,8.3745,8,8.668,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2017,Bed,NA,9.423,8.3745,8,8.94,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2017,Dr,NA,9.423,8.3745,8,8.94,Non-OECD,NA,NA,NA,Upper middle income
+Brazil,2017,Nurse,NA,9.423,8.3745,8,8.94,Non-OECD,NA,NA,NA,Upper middle income
+China,2008,Bed,2.13,3.886,4.5825000000000005,2,8.089,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2008,Dr,1.32,3.886,4.5825000000000005,2,8.089,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2008,Nurse,1.24,3.886,4.5825000000000005,2,8.089,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2009,Bed,2.29,4.339,4.5825000000000005,2,8.233,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2009,Dr,1.4,4.339,4.5825000000000005,2,8.233,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2009,Nurse,1.36,4.339,4.5825000000000005,2,8.233,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2010,Bed,2.47,4.194,4.5825000000000005,2,8.4,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2010,Dr,1.44,4.194,4.5825000000000005,2,8.4,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2010,Nurse,1.5,4.194,4.5825000000000005,2,8.4,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2011,Bed,2.69,4.309,4.5825000000000005,2,8.592,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2011,Dr,1.47,4.309,4.5825000000000005,2,8.592,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2011,Nurse,1.63,4.309,4.5825000000000005,2,8.592,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2012,Bed,3.01,4.57,4.5825000000000005,2,8.791,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2012,Dr,1.55,4.57,4.5825000000000005,2,8.791,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2012,Nurse,1.8,4.57,4.5825000000000005,2,8.791,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2013,Bed,3.29,4.742,4.5825000000000005,2,9.02,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2013,Dr,1.64,4.742,4.5825000000000005,2,9.02,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2013,Nurse,2,4.742,4.5825000000000005,2,9.02,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2014,Bed,3.55,4.8,4.5825000000000005,2,9.309,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2014,Dr,1.7,4.8,4.5825000000000005,2,9.309,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2014,Nurse,2.15,4.8,4.5825000000000005,2,9.309,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2015,Bed,3.79,4.961,4.5825000000000005,2,9.676,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2015,Dr,1.78,4.961,4.5825000000000005,2,9.676,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2015,Nurse,2.3,4.961,4.5825000000000005,2,9.676,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2016,Bed,4.02,4.977,4.5825000000000005,2,10.123,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2016,Dr,1.88,4.977,4.5825000000000005,2,10.123,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2016,Nurse,2.48,4.977,4.5825000000000005,2,10.123,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2017,Bed,4.31,5.047,4.5825000000000005,2,10.641,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2017,Dr,1.99,5.047,4.5825000000000005,2,10.641,Non-OECD,less beds,less drs,less nurses,Upper middle income
+China,2017,Nurse,2.68,5.047,4.5825000000000005,2,10.641,Non-OECD,less beds,less drs,less nurses,Upper middle income
+Indonesia,2008,Bed,NA,2.613,2.9314,1,4.887,Non-OECD,NA,NA,NA,Upper middle income
+Indonesia,2008,Dr,NA,2.613,2.9314,1,4.887,Non-OECD,NA,NA,NA,Upper middle income
+Indonesia,2008,Nurse,NA,2.613,2.9314,1,4.887,Non-OECD,NA,NA,NA,Upper middle income
+Indonesia,2009,Bed,0.59,2.685,2.9314,1,4.88,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2009,Dr,NA,2.685,2.9314,1,4.88,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2009,Nurse,0.77,2.685,2.9314,1,4.88,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2010,Bed,0.57,2.961,2.9314,1,4.981,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2010,Dr,NA,2.961,2.9314,1,4.981,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2010,Nurse,0.71,2.961,2.9314,1,4.981,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2011,Bed,0.62,2.955,2.9314,1,5.036,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2011,Dr,NA,2.955,2.9314,1,5.036,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2011,Nurse,0.91,2.955,2.9314,1,5.036,Non-OECD,less beds,NA,less nurses,Upper middle income
+Indonesia,2012,Bed,0.83,2.903,2.9314,1,5.099,Non-OECD,less beds,less drs,less nurses,Upper middle income
+Indonesia,2012,Dr,0.31,2.903,2.9314,1,5.099,Non-OECD,less beds,less drs,less nurses,Upper middle income
+Indonesia,2012,Nurse,0.96,2.903,2.9314,1,5.099,Non-OECD,less beds,less drs,less nurses,Upper middle income
+Indonesia,2013,Bed,0.99,2.961,2.9314,1,5.173,Non-OECD,less beds,less drs,less nurses,Upper middle income
+Indonesia,2013,Dr,0.32,2.961,2.9314,1,5.173,Non-OECD,less beds,less drs,less nurses,Upper middle income
+Indonesia,2013,Nurse,1.16,2.961,2.9314,1,5.173,Non-OECD,less beds,less drs,less nurses,Upper middle income
+Indonesia,2014,Bed,0.94,3.117,2.9314,1,5.264,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2014,Dr,NA,3.117,2.9314,1,5.264,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2014,Nurse,NA,3.117,2.9314,1,5.264,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2015,Bed,0.98,3.012,2.9314,1,5.375,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2015,Dr,NA,3.012,2.9314,1,5.375,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2015,Nurse,NA,3.012,2.9314,1,5.375,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2016,Bed,0.99,3.119,2.9314,1,5.502,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2016,Dr,NA,3.119,2.9314,1,5.502,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2016,Nurse,NA,3.119,2.9314,1,5.502,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2017,Bed,1.04,2.988,2.9314,1,5.647,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2017,Dr,NA,2.988,2.9314,1,5.647,Non-OECD,less beds,NA,NA,Upper middle income
+Indonesia,2017,Nurse,NA,2.988,2.9314,1,5.647,Non-OECD,less beds,NA,NA,Upper middle income
+Russia,2008,Bed,9.85,4.892,5.1534,4,13.556,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2008,Dr,4.96,4.892,5.1534,4,13.556,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2008,Nurse,7.32,4.892,5.1534,4,13.556,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2009,Bed,9.68,5.63,5.1534,4,13.103,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2009,Dr,5.01,5.63,5.1534,4,13.103,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2009,Nurse,7.36,5.63,5.1534,4,13.103,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2010,Bed,9.41,4.959,5.1534,4,12.79,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2010,Dr,5.03,4.959,5.1534,4,12.79,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2010,Nurse,7.29,4.959,5.1534,4,12.79,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2011,Bed,9.42,4.795,5.1534,4,12.734,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2011,Dr,4.25,4.795,5.1534,4,12.734,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2011,Nurse,8.76,4.795,5.1534,4,12.734,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2012,Bed,9.3,4.936,5.1534,4,12.859,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2012,Dr,4.03,4.936,5.1534,4,12.859,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2012,Nurse,8.51,4.936,5.1534,4,12.859,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2013,Bed,9.07,5.081,5.1534,4,13.033,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2013,Dr,4.02,5.081,5.1534,4,13.033,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2013,Nurse,8.79,5.081,5.1534,4,13.033,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2014,Bed,8.81,5.296,5.1534,4,13.315,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2014,Dr,4.15,5.296,5.1534,4,13.315,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2014,Nurse,8.95,5.296,5.1534,4,13.315,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2015,Bed,8.35,5.296,5.1534,4,13.679,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2015,Dr,3.9,5.296,5.1534,4,13.679,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2015,Nurse,8.51,5.296,5.1534,4,13.679,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2016,Bed,8.16,5.29,5.1534,4,14.017,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2016,Dr,3.94,5.29,5.1534,4,14.017,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2016,Nurse,8.46,5.29,5.1534,4,14.017,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2017,Bed,8.05,5.359,5.1534,4,14.262,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2017,Dr,4.04,5.359,5.1534,4,14.262,Non-OECD,more beds,more drs,more nurses,Upper middle income
+Russia,2017,Nurse,8.47,5.359,5.1534,4,14.262,Non-OECD,more beds,more drs,more nurses,Upper middle income
+South Africa,2008,Bed,2.39,6.546,7.6387,7,4.923,Non-OECD,less beds,less drs,less nurses,Upper middle income
+South Africa,2008,Dr,0.7,6.546,7.6387,7,4.923,Non-OECD,less beds,less drs,less nurses,Upper middle income
+South Africa,2008,Nurse,0.88,6.546,7.6387,7,4.923,Non-OECD,less beds,less drs,less nurses,Upper middle income
+South Africa,2009,Bed,NA,7.115,7.6387,7,4.929,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2009,Dr,0.71,7.115,7.6387,7,4.929,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2009,Nurse,0.95,7.115,7.6387,7,4.929,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2010,Bed,2.3,7.415,7.6387,7,4.959,Non-OECD,less beds,less drs,less nurses,Upper middle income
+South Africa,2010,Dr,0.72,7.415,7.6387,7,4.959,Non-OECD,less beds,less drs,less nurses,Upper middle income
+South Africa,2010,Nurse,1.02,7.415,7.6387,7,4.959,Non-OECD,less beds,less drs,less nurses,Upper middle income
+South Africa,2011,Bed,NA,7.497,7.6387,7,4.996,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2011,Dr,0.72,7.497,7.6387,7,4.996,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2011,Nurse,1.06,7.497,7.6387,7,4.996,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2012,Bed,NA,7.753,7.6387,7,5.048,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2012,Dr,0.73,7.753,7.6387,7,5.048,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2012,Nurse,1.11,7.753,7.6387,7,5.048,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2013,Bed,NA,7.721,7.6387,7,5.116,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2013,Dr,0.74,7.721,7.6387,7,5.116,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2013,Nurse,1.19,7.721,7.6387,7,5.116,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2014,Bed,NA,7.93,7.6387,7,5.192,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2014,Dr,0.75,7.93,7.6387,7,5.192,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2014,Nurse,1.23,7.93,7.6387,7,5.192,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2015,Bed,NA,8.201,7.6387,7,5.274,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2015,Dr,0.78,8.201,7.6387,7,5.274,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2015,Nurse,1.27,8.201,7.6387,7,5.274,Non-OECD,NA,less drs,less nurses,Upper middle income
+South Africa,2016,Bed,NA,8.096,7.6387,7,5.364,Non-OECD,NA,NA,less nurses,Upper middle income
+South Africa,2016,Dr,NA,8.096,7.6387,7,5.364,Non-OECD,NA,NA,less nurses,Upper middle income
+South Africa,2016,Nurse,1.31,8.096,7.6387,7,5.364,Non-OECD,NA,NA,less nurses,Upper middle income
+South Africa,2017,Bed,NA,8.113,7.6387,7,5.477,Non-OECD,NA,NA,less nurses,Upper middle income
+South Africa,2017,Dr,NA,8.113,7.6387,7,5.477,Non-OECD,NA,NA,less nurses,Upper middle income
+South Africa,2017,Nurse,1.31,8.113,7.6387,7,5.477,Non-OECD,NA,NA,less nurses,Upper middle income
+Colombia,2008,Bed,NA,6.842,7.1687,6,6.448,OECD,NA,less drs,less nurses,Upper middle income
+Colombia,2008,Dr,1.54,6.842,7.1687,6,6.448,OECD,NA,less drs,less nurses,Upper middle income
+Colombia,2008,Nurse,0.77,6.842,7.1687,6,6.448,OECD,NA,less drs,less nurses,Upper middle income
+Colombia,2009,Bed,NA,7.311,7.1687,6,6.576,OECD,NA,less drs,less nurses,Upper middle income
+Colombia,2009,Dr,1.59,7.311,7.1687,6,6.576,OECD,NA,less drs,less nurses,Upper middle income
+Colombia,2009,Nurse,0.82,7.311,7.1687,6,6.576,OECD,NA,less drs,less nurses,Upper middle income
+Colombia,2010,Bed,1.48,7.071,7.1687,6,6.725,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2010,Dr,1.64,7.071,7.1687,6,6.725,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2010,Nurse,0.86,7.071,7.1687,6,6.725,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2011,Bed,1.45,6.781,7.1687,6,6.853,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2011,Dr,1.7,6.781,7.1687,6,6.853,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2011,Nurse,0.92,6.781,7.1687,6,6.853,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2012,Bed,1.48,6.746,7.1687,6,6.997,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2012,Dr,1.75,6.746,7.1687,6,6.997,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2012,Nurse,0.98,6.746,7.1687,6,6.997,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2013,Bed,1.54,7.017,7.1687,6,7.152,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2013,Dr,1.82,7.017,7.1687,6,7.152,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2013,Nurse,1.03,7.017,7.1687,6,7.152,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2014,Bed,1.59,7.186,7.1687,6,7.316,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2014,Dr,1.89,7.186,7.1687,6,7.316,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2014,Nurse,1.09,7.186,7.1687,6,7.316,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2015,Bed,1.61,7.523,7.1687,6,7.486,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2015,Dr,1.95,7.523,7.1687,6,7.486,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2015,Nurse,1.15,7.523,7.1687,6,7.486,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2016,Bed,1.68,7.531,7.1687,6,7.675,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2016,Dr,2.01,7.531,7.1687,6,7.675,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2016,Nurse,1.21,7.531,7.1687,6,7.675,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2017,Bed,1.7,7.679,7.1687,6,7.864,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2017,Dr,2.09,7.679,7.1687,6,7.864,OECD,less beds,less drs,less nurses,Upper middle income
+Colombia,2017,Nurse,1.26,7.679,7.1687,6,7.864,OECD,less beds,less drs,less nurses,Upper middle income
+India,2008,Bed,0.41,3.625,3.5275,1,4.984,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2008,Dr,0.63,3.625,3.5275,1,4.984,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2008,Nurse,0.81,3.625,3.5275,1,4.984,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2009,Bed,0.44,3.594,3.5275,1,5.048,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2009,Dr,0.65,3.594,3.5275,1,5.048,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2009,Nurse,0.86,3.594,3.5275,1,5.048,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2010,Bed,0.47,3.375,3.5275,1,5.113,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2010,Dr,0.69,3.375,3.5275,1,5.113,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2010,Nurse,0.87,3.375,3.5275,1,5.113,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2011,Bed,0.63,3.246,3.5275,1,5.206,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2011,Dr,0.74,3.246,3.5275,1,5.206,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2011,Nurse,0.99,3.246,3.5275,1,5.206,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2012,Bed,0.49,3.329,3.5275,1,5.297,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2012,Dr,0.7,3.329,3.5275,1,5.297,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2012,Nurse,1.11,3.329,3.5275,1,5.297,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2013,Bed,0.49,3.749,3.5275,1,5.393,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2013,Dr,0.72,3.749,3.5275,1,5.393,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2013,Nurse,1.22,3.749,3.5275,1,5.393,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2014,Bed,0.52,3.62,3.5275,1,5.504,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2014,Dr,0.72,3.62,3.5275,1,5.504,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2014,Nurse,1.37,3.62,3.5275,1,5.504,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2015,Bed,0.58,3.598,3.5275,1,5.636,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2015,Dr,0.73,3.598,3.5275,1,5.636,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2015,Nurse,1.45,3.598,3.5275,1,5.636,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2016,Bed,0.48,3.536,3.5275,1,5.808,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2016,Dr,0.76,3.536,3.5275,1,5.808,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2016,Nurse,1.5,3.536,3.5275,1,5.808,Non-OECD,less beds,less drs,less nurses,Lower middle income
+India,2017,Bed,0.53,3.603,3.5275,1,5.989,Non-OECD,less beds,less drs,NA,Lower middle income
+India,2017,Dr,0.78,3.603,3.5275,1,5.989,Non-OECD,less beds,less drs,NA,Lower middle income
+India,2017,Nurse,NA,3.603,3.5275,1,5.989,Non-OECD,less beds,less drs,NA,Lower middle income
