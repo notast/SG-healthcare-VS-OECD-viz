@@ -2,7 +2,7 @@
 The current Singapore healthcare landscape is painted in a storyboard against OECD and non-OECD peers and addresses if Singapore needs to scale up its healthcare resources to ride the silver tsunami. 
 
 ## Software 
-Storyboard was done in `Tableau`. Data preparation was done with `R`'s `tidyverse`, `rvest`, `countrycode`. 
+Storyboard was done in `Tableau`. [Data preparation was done in `R`](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/health%20exp%20%26%20resource.Rmd) with `tidyverse`, `rvest`, `countrycode`. 
 
 # Data
 There are two datasets. The primary dataset has 1230 rows and 13 columns. The primary dataset consists of data from various sources. Variables from various sources were matched as close as possible based on available meta-data. The secondary dataset has 18 rows and 5 columns. It consists of aggerated values from the primary dataset. 
@@ -13,7 +13,7 @@ Rudimentary, healthcare provision includes the number of beds, doctors and nurse
 The multiple sources are from international organizations (e.g. Organisation for Economic Co-operation and Development and World Bank) and national organizations (e.g. Government of Singapore’s data repository, data.gov.sg, and its department of statistics). 
 
 ## Data dictionary 
-### Primary dataset [`df_all`]()
+### Primary dataset [`df_all`](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/df_all.csv)
 |     #     |     Variable     |     Meaning     |
 |-|-|-|
 |     1    |     Country     |     40   countries   including Singapore.   Country names were standardized to the names used in [`R`’s `countrycode`   package](https://vincentarelbundock.github.io/countrycode/)      |
@@ -29,7 +29,7 @@ The multiple sources are from international organizations (e.g. Organisation for
 |     11    |     CountryVsSG_drs    |     Whether   a   country has more or fewer doctors in   a particular year compared to Singapore.      |
 |     12    |     CountryVsSG_nurses        |     Whether   a   country has more or fewer nurses in   a particular year compared to Singapore.    |
 |     13    |     Income_group      |     The   country’s   income group as determined   by the [World Bank]( http://databank.worldbank.org/data/download/site-content/CLASS.xls),   available on GitHub as [`world bank income   bracket`](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/world%20bank%20income%20bracket.xls).       |
-### Secondary dataset [`df_top5resource2017`]()
+### Secondary dataset [`df_top5resource2017`](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/df_top5resource2017.csv)
 It contains the top 5 nations and Singapore for each `Resource` in `Year` 2017 and the average of the top 5 nations.
 |     #    |     Variable    |     Meaning    |
 |-|-|-|
