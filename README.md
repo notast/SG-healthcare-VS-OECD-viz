@@ -2,7 +2,7 @@
 The current Singapore healthcare landscape is painted in a storyboard against OECD and non-OECD peers and addresses if Singapore needs to scale up its healthcare resources to ride the silver tsunami. 
 
 ## Software 
-Storyboard was done in `Tableau`. [Data preparation was done in `R`](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/health%20exp%20%26%20resource.Rmd) with `tidyverse`, `rvest`, `countrycode`. 
+Storyboard was done in [`Tableau`](https://public.tableau.com/profile/notast#!/vizhome/SingaporevsOECDhealtcareresources/Storyboard). [Data preparation was done in `R`](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/health%20exp%20%26%20resource.Rmd) with `tidyverse`, `rvest`, `countrycode`. 
 
 # Data
 There are two datasets. The primary dataset has 1230 rows and 13 columns. The primary dataset consists of data from various sources. Variables from various sources were matched as close as possible based on available meta-data. The secondary dataset has 18 rows and 5 columns. It consists of aggerated values from the primary dataset. 
@@ -39,5 +39,13 @@ It contains the top 5 nations and Singapore for each `Resource` in `Year` 2017 a
 |     4    |     per_1000    |     The values of `Resource`. They are   measured per 1000 inhabitants.           |
 |     5    |     avgTop5_per1000    |     Average of the top 5 nations. The   average acts as a baseline to compare the extend of the resource shortfall.          |
 
-# EDA
-TBA
+# Storytelling
+Freystag’s Pyramid was adopted as the narrative framework for data storytelling. 
+![](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/images/Intro.png)
+<br>
+<br>
+![](https://github.com/notast/SG-healthcare-VS-OECD-viz/blob/main/images/nurse%20shot.png)
+
+## Recommendations
+The average of the top 5 nations for each resource is used as a benchmark for the number of resources Singapore should aim for. Based on this benchmark, Singapore needs to double the number of doctors, beds and nurses. 
+
